@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyNHk5Zjl3ZnBndXU3cDV6YnhrZXdseWd5azB3Y2RrbXliOTdrZ29oYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LORtpngLIJsy6bwTih/giphy.webp" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
 </p>
 
 <p align="center">
