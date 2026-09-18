@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/imranabdul-cmd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Imran%20A%20%F0%9F%91%8B;Backend%20Developer%20%40%20Insurance%20Tech%20%F0%9F%8E%93;Python%20%7C%20Flask%20%7C%20SQL%20%7C%20TensorFlow%20%F0%9F%92%BB;AI%2C%20Data%20%26%20Full-Stack%20Builder%20%F0%9F%A4%96;Turning%20random%20ideas%20into%20production%20code%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Imran%20A%20%F0%9F%91%8B;AI%20Engineer%20%40%20Owlsure%20%F0%9F%A4%96;Python%20%7C%20.NET%20%7C%20PostgreSQL%20%7C%20Git%20%F0%9F%92%BB;AI%20%7C%20Data%20Science%20%7C%20Software%20Engineering%20%F0%9F%A7%A0;Turning%20ideas%20into%20production-ready%20solutions%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,16 +13,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/imranabdul-cmd" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
-  </a>
-  &nbsp;
   <a href="mailto:imran.abdul.official@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
   </a>
   &nbsp;
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Drive-DC2626?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0a0a" alt="Resume" />
+  <a href="assets/owlsure_6262.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0a0a0a" alt="Resume" />
   </a>
   &nbsp;
   <a href="https://github.com/imranabdul-cmd" target="_blank">
@@ -39,7 +35,7 @@
 <h2 align="center">🔴 About Me</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity.+Backend-first.+Insurance+tech+focused." width="100%" style="max-width: 600px;" alt="Typing Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=AI-focused.+Software+Engineer.+Always+building+and+learning." width="100%" style="max-width: 600px;" alt="Typing Quote" />
 </p>
 
 <p align="center">
@@ -47,8 +43,8 @@
 </p>
 
 <p align="center">
-  Hey! I'm <b>Imran A</b>, a <b>B.Sc Computer Science</b> graduate and <b>Backend Developer</b> based in Coimbatore, India.<br />
-  I work on insurance software platforms (SecureDrive, DriveSure, OwlSure) — building backend systems, APIs, and AI-driven tools that solve real insurance-domain problems.
+  Hey! I'm <b>Imran A</b>, a <b>B.Sc Computer Science</b> graduate and <b>AI Engineer</b> at <b>Owlsure</b>, based in Coimbatore, India.<br />
+  I work on AI-driven software solutions, backend systems, APIs, and data-focused applications — turning ideas into practical and scalable solutions.
 </p>
 
 <p align="center">
@@ -56,51 +52,51 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Degree-B.Sc._Computer_Science-DC2626?style=flat-square" alt="Degree" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Backend_%26_AI-111111?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Role-AI_Engineer-111111?style=flat-square" alt="Role" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Company-Owlsure-DC2626?style=flat-square" alt="Company" />
 </p>
 
 <p align="center">
-  💬 <b>Let's Discuss:</b> Python, Flask, SQL, TensorFlow/Keras, System Design & Git Workflows.<br />
+  💬 <b>Let's Discuss:</b> Python, .NET, PostgreSQL, AI, Data Science, System Design & Git Workflows.<br />
   ⚡ <b>Philosophy:</b> <i>"I turn random 2 AM ideas into production-ready code!"</i>
 </p>
 
 <table width="100%" border="0" align="center">
 <tr>
 <td width="50%" align="center" style="padding: 14px;">
-  <h4>🔭 Flagship Project</h4>
-  <p><a href="https://github.com/imranabdul-cmd" target="_blank"><b>DriveSure Insurance</b></a><br /><sub>Vehicle Insurance Web App</sub></p>
+  <h4>🤖 Current Role</h4>
+  <p>
+    <b>AI Engineer @ Owlsure</b><br />
+    <sub>AI-driven Software & Data Solutions</sub>
+  </p>
 </td>
+
 <td width="50%" align="center" style="padding: 14px;">
   <h4>🌱 Active Deep Dives</h4>
-  <p><b>Insurance Tech &amp; AI Tools</b><br /><sub>Backend Systems &amp; Data Analytics</sub></p>
+  <p>
+    <b>AI & Data Science</b><br />
+    <sub>Software Engineering & Data Technologies</sub>
+  </p>
 </td>
 </tr>
+
 <tr>
 <td width="50%" align="center" style="padding: 14px;">
   <h4>📱 Portfolio</h4>
-  <p><a href="https://imranabdul-cmd.github.io/portfolio" target="_blank"><b>View Portfolio</b></a><br /><sub>Projects &amp; Case Studies</sub></p>
-</td>
-<td width="50%" align="center" style="padding: 14px;">
-  <h4>🤝 Collaboration</h4>
-  <p><b>Insurance, AI &amp; Backend</b><br /><sub>Open to exciting new projects</sub></p>
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">🔴 Featured Project Spotlight</h2>
-
-<table width="100%" border="0" align="center">
-<tr>
-<td align="center" style="padding: 22px;">
-  <h3>🔬 DriveSure Insurance</h3>
-  <p><i>A vehicle insurance web platform built with backend APIs, database-driven policy management, and a focus on real-world insurance workflows.</i></p>
-  <br />
   <p>
-    <a href="https://github.com/imranabdul-cmd" target="_blank">
-      <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
-    </a>
+    <a href="https://imranabdul-cmd.github.io/portfolio" target="_blank">
+      <b>View Portfolio</b>
+    </a><br />
+    <sub>Projects & Case Studies</sub>
+  </p>
+</td>
+
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🧠 Interests</h4>
+  <p>
+    <b>Artificial Intelligence & Data</b><br />
+    <sub>Building practical software solutions</sub>
   </p>
 </td>
 </tr>
@@ -108,31 +104,10 @@
 
 ---
 
-<h2 align="center">🧩 LeetCode Problem Solving</h2>
-
-<p align="center"><i>Live real-time tracker of coding challenges & algorithmic problem-solving milestones.</i></p>
-
-<p align="center">
-  <a href="https://leetcode.com/imranabdul-cmd/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/imranabdul-cmd?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/imranabdul-cmd/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/imranabdul-cmd/" target="_blank">
-    <img src="https://img.shields.io/badge/Problems_Solved-Live_Tracker-DC2626?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="Problems Solved" />
-  </a>
-</p>
-
----
-
 <h2 align="center">🛠️ Tech Stack & Skills</h2>
 
 <p align="center"><b>Core Programming Languages</b></p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,js,html,css&theme=dark" width="100%" style="max-width: 340px;" alt="Languages" />
@@ -140,25 +115,29 @@
 </p>
 
 <p align="center"><b>Backend, Web & Databases</b></p>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,mysql,git,github&theme=dark" width="100%" style="max-width: 280px;" alt="Backend and Databases" />
+    <img src="https://skillicons.dev/icons?i=dotnet,postgres,git,github&theme=dark" width="100%" style="max-width: 280px;" alt="Backend and Databases" />
   </a>
 </p>
 
 <p align="center"><b>AI, Data Science & Tools</b></p>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,vscode,postman&theme=dark" width="100%" style="max-width: 220px;" alt="AI and Tools" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,vscode,github&theme=dark" width="100%" style="max-width: 280px;" alt="AI and Data Science Tools" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=EF4444" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=EF4444" alt="Pandas" />
   &nbsp;
-  <img src="https://img.shields.io/badge/numpy-0a0a0a?style=for-the-badge&logo=numpy&logoColor=EF4444" alt="NumPy" />
+  <img src="https://img.shields.io/badge/NumPy-0a0a0a?style=for-the-badge&logo=numpy&logoColor=EF4444" alt="NumPy" />
   &nbsp;
   <img src="https://img.shields.io/badge/Keras-0a0a0a?style=for-the-badge&logo=keras&logoColor=EF4444" alt="Keras" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Antigravity-0a0a0a?style=for-the-badge&logo=google&logoColor=EF4444" alt="Antigravity" />
   &nbsp;
   <img src="https://img.shields.io/badge/REST_API-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=EF4444" alt="REST API" />
 </p>
@@ -191,12 +170,15 @@
 
 ---
 
-<h2 align="center">📬 Let's Connect &amp; Collaborate</h2>
+<h2 align="center">📬 Let's Connect</h2>
 
-<p align="center"><i>Whether you want to discuss backend systems, insurance tech, or just say hello — my inbox is always open!</i></p>
+<p align="center">
+  <i>Whether you want to discuss AI, software engineering, data, or just say hello — my inbox is always open!</i>
+</p>
 
 <table border="0" align="center">
 <tr>
+
 <td align="center" width="220" style="padding: 16px;">
   <a href="https://www.linkedin.com/in/imran-a-508637361" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
@@ -206,6 +188,7 @@
   <br />
   <sub><b>Professional Network</b></sub>
 </td>
+
 <td align="center" width="220" style="padding: 16px;">
   <a href="https://imranabdul-cmd.github.io/portfolio" target="_blank">
     <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="Portfolio" />
@@ -213,8 +196,9 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0a" alt="Portfolio" />
   </a>
   <br />
-  <sub><b>Projects &amp; Case Studies</b></sub>
+  <sub><b>Projects & Case Studies</b></sub>
 </td>
+
 <td align="center" width="220" style="padding: 16px;">
   <a href="mailto:imran.abdul.official@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
@@ -224,6 +208,7 @@
   <br />
   <sub><b>Direct Collaboration</b></sub>
 </td>
+
 </tr>
 </table>
 
