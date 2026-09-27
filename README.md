@@ -57,11 +57,11 @@
 ## GITHUB ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=imranabdul-cmd&amp;show_icons=true&amp;bg_color=020204&amp;title_color=ff2d55&amp;text_color=8eddeb&amp;icon_color=22d3ee&amp;border_color=3b2342&amp;border_radius=14" height="175" alt="GitHub statistics" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=imranabdul-cmd&amp;layout=compact&amp;bg_color=020204&amp;title_color=ff2d55&amp;text_color=8eddeb&amp;border_color=3b2342&amp;border_radius=14" height="175" alt="Top languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=imranabdul-cmd&amp;show_icons=true&amp;bg_color=02030A&amp;title_color=FF3B81&amp;text_color=8eddeb&amp;icon_color=22D3EE&amp;border_color=A855F7&amp;border_radius=14" height="175" alt="GitHub statistics" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=imranabdul-cmd&amp;layout=compact&amp;bg_color=02030A&amp;title_color=FF3B81&amp;text_color=8eddeb&amp;border_color=A855F7&amp;border_radius=14" height="175" alt="Top languages" />
 </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=imranabdul-cmd&amp;background=020204&amp;border=3B2342&amp;stroke=22D3EE&amp;ring=FF2D55&amp;fire=F43F5E&amp;currStreakNum=8EDDEB&amp;sideNums=8EDDEB&amp;currStreakLabel=22D3EE&amp;sideLabels=A68BD0&amp;dates=718A94" height="175" alt="GitHub streak" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=imranabdul-cmd&amp;background=02030A&amp;border=A855F7&amp;stroke=00F5FF&amp;ring=FF2D55&amp;fire=FF3B81&amp;currStreakNum=8EDDEB&amp;sideNums=8EDDEB&amp;currStreakLabel=22D3EE&amp;sideLabels=A68BD0&amp;dates=718A94" height="175" alt="GitHub streak" /></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/imranabdul-cmd/imranabdul-cmd/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution activity" /></p>
 
