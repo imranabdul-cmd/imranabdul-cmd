@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-label="Imran A contact terminal">
+<defs>
+<linearGradient id="bg" x1="0" x2="1"><stop stop-color="#03040a"/><stop offset=".5" stop-color="#0b1020"/><stop offset="1" stop-color="#03040a"/></linearGradient>
+<linearGradient id="g" x1="0" x2="1"><stop stop-color="#ff2d55"/><stop offset=".45" stop-color="#d946ef"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<style>.c{animation:c 1.2s steps(1,end) infinite}@keyframes c{50%{opacity:0}}</style>
+</defs>
+<rect width="1200" height="260" rx="28" fill="url(#bg)"/>
+<rect x="34" y="34" width="1132" height="192" rx="20" fill="#050911" stroke="url(#g)" stroke-width="2"/>
+<circle cx="64" cy="64" r="6" fill="#ff2d55"/><circle cx="86" cy="64" r="6" fill="#f59e0b"/><circle cx="108" cy="64" r="6" fill="#22c55e"/>
+<text x="140" y="69" fill="#71869b" font-family="monospace" font-size="12">imran@ai-lab:~$ connect</text>
+<g font-family="monospace">
+<text x="70" y="112" fill="#22d3ee" font-size="15">&gt; github.com/imranabdul-cmd</text>
+<text x="70" y="142" fill="#d946ef" font-size="15">&gt; linkedin.com/in/imran-aupe</text>
+<text x="70" y="172" fill="#10b981" font-size="15">&gt; imran-aupe.vercel.app</text>
+<text x="70" y="202" fill="#ff5b7e" font-size="15">&gt; imran.abdul.official@gmail.com<span class="c">_</span></text>
+</g>
+<text x="930" y="118" fill="url(#g)" font-family="Arial" font-size="30" font-weight="800" text-anchor="middle">BUILD</text>
+<text x="930" y="153" fill="#b9c8d9" font-family="Arial" font-size="14" letter-spacing="3" text-anchor="middle">LEARN • SHIP • REPEAT</text>
+</svg>
