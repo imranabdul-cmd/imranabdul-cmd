@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Imran A — cinematic AI engineering command center" />
+  <a href="assets/hero.mp4">
+    <img src="assets/hero.gif" width="100%" alt="Cinematic futuristic hero animation of Imran A coding in an AI engineering environment" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="assets/hero.mp4"><strong>▶ WATCH THE CINEMATIC INTRO</strong></a>
 </p>
 
 <p align="center">
