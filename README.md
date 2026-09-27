@@ -1,11 +1,13 @@
 <p align="center">
-  <a href="assets/Man_typing_code_at_workstation_20260927120945.mp4">
-    <img src="assets/hero.svg" width="100%" alt="Imran A — futuristic cinematic AI engineering hero; click to open the cinematic video" />
+  <a href="assets/hero.mp4">
+    <img src="assets/hero.gif" width="100%" alt="Cinematic futuristic hero animation of Imran A coding in an AI engineering environment" />
   </a>
 </p>
 
 <p align="center">
-  <a href="assets/Man_typing_code_at_workstation_20260927120945.mp4"><strong>▶ WATCH THE CINEMATIC INTRO</strong></a>
+  <a href="assets/hero.mp4"><strong>▶ WATCH THE CINEMATIC INTRO</strong></a>
+  &nbsp;·&nbsp;
+  <a href="assets/hero-poster.webp">POSTER</a>
 </p>
 
 <p align="center">
