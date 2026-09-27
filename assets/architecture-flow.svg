@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-label="AI product architecture">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#03050b"/><stop offset=".48" stop-color="#0a1020"/><stop offset="1" stop-color="#04060d"/></linearGradient>
+  <linearGradient id="flow" x1="0" x2="1"><stop stop-color="#ff2d55"/><stop offset=".5" stop-color="#a855f7"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+  <filter id="g"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="340" rx="28" fill="url(#bg)"/>
+<text x="60" y="52" fill="#ff7a98" font-family="Arial" font-weight="700" font-size="14" letter-spacing="4">REFERENCE ARCHITECTURE • AI PRODUCT ENGINEERING</text>
+<text x="60" y="80" fill="#b7c7d6" font-family="Arial" font-size="14">interface → orchestration → knowledge → intelligence → delivery</text>
+<g font-family="Arial">
+  <g transform="translate(55,130)">
+    <rect width="180" height="115" rx="18" fill="#07101c" stroke="#ff2d55" stroke-width="2"/>
+    <text x="20" y="33" fill="#ff7a98" font-size="12" letter-spacing="2">INTERFACE</text>
+    <text x="20" y="68" fill="#fff" font-size="22" font-weight="800">REACT</text>
+    <text x="20" y="92" fill="#8bb4ca" font-size="12">UI / API client</text>
+  </g>
+  <g transform="translate(270,130)">
+    <rect width="180" height="115" rx="18" fill="#07101c" stroke="#d946ef" stroke-width="2"/>
+    <text x="20" y="33" fill="#efb7ff" font-size="12" letter-spacing="2">ORCHESTRATION</text>
+    <text x="20" y="68" fill="#fff" font-size="22" font-weight="800">ASP.NET + FASTAPI</text>
+    <text x="20" y="92" fill="#8bb4ca" font-size="12">services / tools</text>
+  </g>
+  <g transform="translate(485,130)">
+    <rect width="180" height="115" rx="18" fill="#07101c" stroke="#8b5cf6" stroke-width="2"/>
+    <text x="20" y="33" fill="#d3c0ff" font-size="12" letter-spacing="2">KNOWLEDGE</text>
+    <text x="20" y="68" fill="#fff" font-size="22" font-weight="800">POSTGRES + PGVECTOR</text>
+    <text x="20" y="92" fill="#8bb4ca" font-size="12">retrieval / context</text>
+  </g>
+  <g transform="translate(700,130)">
+    <rect width="180" height="115" rx="18" fill="#07101c" stroke="#22d3ee" stroke-width="2"/>
+    <text x="20" y="33" fill="#7befff" font-size="12" letter-spacing="2">INTELLIGENCE</text>
+    <text x="20" y="68" fill="#fff" font-size="22" font-weight="800">GEMINI + RAG</text>
+    <text x="20" y="92" fill="#8bb4ca" font-size="12">grounded generation</text>
+  </g>
+  <g transform="translate(915,130)">
+    <rect width="180" height="115" rx="18" fill="#07101c" stroke="#10b981" stroke-width="2"/>
+    <text x="20" y="33" fill="#91f5c8" font-size="12" letter-spacing="2">DELIVERY</text>
+    <text x="20" y="68" fill="#fff" font-size="22" font-weight="800">CLOUD + CI/CD</text>
+    <text x="20" y="92" fill="#8bb4ca" font-size="12">Railway / GitHub</text>
+  </g>
+</g>
+<g stroke="url(#flow)" stroke-width="4" filter="url(#g)">
+  <line x1="235" y1="188" x2="270" y2="188"/><line x1="450" y1="188" x2="485" y2="188"/><line x1="665" y1="188" x2="700" y2="188"/><line x1="880" y1="188" x2="915" y2="188"/>
+</g>
+<g fill="#fff">
+  <circle cx="252" cy="188" r="4"/><circle cx="467" cy="188" r="4"/><circle cx="682" cy="188" r="4"/><circle cx="897" cy="188" r="4"/>
+</g>
+</svg>
