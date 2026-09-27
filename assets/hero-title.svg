@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 240" width="760" height="240" role="img" aria-label="Imran A — Software Engineer and AI Engineer">
+  <defs>
+    <linearGradient id="title" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF2D55"/><stop offset="24%" stop-color="#FF4D7D"/>
+      <stop offset="52%" stop-color="#D946EF"/><stop offset="76%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;200%;100%" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="sub" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3EE"/><stop offset="50%" stop-color="#6366F1"/><stop offset="100%" stop-color="#D946EF"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="panel" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop stop-color="#02030A" stop-opacity=".90"/><stop offset=".55" stop-color="#070B16" stop-opacity=".72"/><stop offset="1" stop-color="#02030A" stop-opacity=".25"/>
+    </linearGradient>
+  </defs>
+  <rect x="20" y="28" width="720" height="190" rx="24" fill="url(#panel)" stroke="url(#title)" stroke-opacity=".48" stroke-width="2"/>
+  <rect x="-120" y="28" width="120" height="190" fill="#22D3EE" opacity=".06" filter="url(#glow)">
+    <animate attributeName="x" values="-120;760;-120" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <text x="60" y="62" fill="url(#sub)" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="5">AI ENGINEERING • PRODUCT SYSTEMS</text>
+  <text x="60" y="125" fill="url(#title)" filter="url(#glow)" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="800" letter-spacing="4">IMRAN A</text>
+  <circle cx="60" cy="160" r="5" fill="#22D3EE" filter="url(#glow)"><animate attributeName="opacity" values="1;.35;1" dur="2.5s" repeatCount="indefinite"/></circle>
+  <text x="78" y="166" fill="url(#sub)" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="3">SOFTWARE ENGINEER • AI ENGINEER</text>
+  <text x="60" y="198" fill="#B7C7D6" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2">SOFTWARE × AI × GENERATIVE AI × PRODUCT ENGINEERING</text>
+</svg>
