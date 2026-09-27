@@ -81,6 +81,40 @@ jobs:
             -loop 0 \
             assets/hero.gif
 
+      - name: Promote generated hero in README
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path("README.md")
+          s = p.read_text(encoding="utf-8")
+          old = '''<p align="center">
+  <a href="assets/Man_typing_code_at_workstation_20260927120945.mp4">
+    <img src="assets/hero.svg" width="100%" alt="Imran A — futuristic cinematic AI engineering hero; click to open the cinematic video" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="assets/Man_typing_code_at_workstation_20260927120945.mp4"><strong>▶ WATCH THE CINEMATIC INTRO</strong></a>
+</p>
+
+'''
+          new = '''<p align="center">
+  <a href="assets/hero.mp4">
+    <img src="assets/hero.gif" width="100%" alt="Cinematic futuristic hero animation of Imran A coding in an AI engineering environment" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="assets/hero.mp4"><strong>▶ WATCH THE CINEMATIC INTRO</strong></a>
+</p>
+
+'''
+          if old in s:
+              p.write_text(s.replace(old, new, 1), encoding="utf-8")
+          else:
+              print("README hero fallback block not found; leaving README unchanged.")
+          PY
+
       - name: Show final media metrics
         run: |
           echo "Final hero.mp4:"
