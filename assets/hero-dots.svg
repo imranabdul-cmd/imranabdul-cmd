@@ -36,6 +36,9 @@
     .scan { animation: scan 6s linear infinite; }
     .blink { animation: blink 1.4s steps(2,end) infinite; }
     .float { animation: float 4s ease-in-out infinite; }
+    .ai-orbit { transform-origin: 0 0; animation: aiOrbit 10s linear infinite; }
+    .ai-pulse { animation: aiPulse 2.6s ease-in-out infinite; }
+    .ai-spark { animation: aiSpark 2.1s ease-in-out infinite; }
     .dash { stroke-dasharray: 10 16; animation: dash 5s linear infinite; }
     .pulse { animation: pulse 2.2s ease-in-out infinite; }
     @keyframes scan { from { transform: translateX(-500px);} to { transform: translateX(1550px);} }
@@ -43,6 +46,9 @@
     @keyframes float { 50% { transform: translateY(-6px); } }
     @keyframes dash { to { stroke-dashoffset: -160; } }
     @keyframes pulse { 50% { opacity: .38; } }
+    @keyframes aiOrbit { to { transform: rotate(360deg); } }
+    @keyframes aiPulse { 50% { opacity: .55; transform: scale(1.04); } }
+    @keyframes aiSpark { 50% { opacity: .18; } }
   </style>
 </defs>
 
@@ -94,13 +100,13 @@
   <rect x="0" y="24" width="680" height="390" rx="28" fill="#050914" fill-opacity=".66" stroke="#253753" stroke-width="1.5"/>
 
   <!-- animated network -->
-  <g transform="translate(315,205)" class="float">
+  <g transform="translate(315,205)">
     <circle cx="0" cy="0" r="96" fill="none" stroke="#233b51" stroke-width="1.5"/>
     <circle cx="0" cy="0" r="62" fill="none" stroke="#1b4661" stroke-width="1.5"/>
-    <circle cx="0" cy="0" r="30" fill="#081421" stroke="url(#cyan)" stroke-width="2.5" filter="url(#glow)"/>
+    <circle class="ai-pulse" cx="0" cy="0" r="30" fill="#081421" stroke="url(#cyan)" stroke-width="2.5" filter="url(#glow)" transform-origin="0 0"/>
     <text x="0" y="5" text-anchor="middle" fill="#baf7ff" font-family="Arial" font-size="13" font-weight="800" letter-spacing="2">AI</text>
 
-    <g stroke="url(#cyan)" stroke-width="2.5" fill="none" opacity=".85">
+    <g class="ai-orbit" stroke="url(#cyan)" stroke-width="2.5" fill="none" opacity=".85">
       <path class="dash" d="M0 -30 L-65 -78 L-115 -30 L-86 45 L-20 82 L55 62 L78 -8 L0 -30"/>
       <path class="dash" d="M0 -30 L0 -122 M-65 -78 L-140 -112 M-115 -30 L-152 18 M-86 45 L-132 90 M-20 82 L0 140 M55 62 L122 88 M78 -8 L145 -40"/>
     </g>
@@ -115,7 +121,7 @@
     </g>
 
     <!-- floating point field -->
-    <g fill="#d946ef">
+    <g class="ai-spark" fill="#d946ef">
       <circle cx="-150" cy="-115" r="3" class="pulse"><animate attributeName="cy" values="-115;-124;-115" dur="3.2s" repeatCount="indefinite"/></circle>
       <circle cx="142" cy="-86" r="3" class="pulse"/>
       <circle cx="146" cy="108" r="3" class="pulse"/>
