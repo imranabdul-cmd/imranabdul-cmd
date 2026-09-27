@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" role="img" aria-label="Imran A current focus">
+<defs>
+<linearGradient id="bg" x1="0" x2="1"><stop stop-color="#05060d"/><stop offset=".5" stop-color="#0d1222"/><stop offset="1" stop-color="#04050b"/></linearGradient>
+<linearGradient id="g" x1="0" x2="1"><stop stop-color="#22d3ee"/><stop offset=".45" stop-color="#8b5cf6"/><stop offset="1" stop-color="#ff2d55"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<style>.wave{animation:wave 2.6s ease-in-out infinite}@keyframes wave{50%{transform:scaleY(.35)}}</style>
+</defs>
+<rect width="1200" height="230" rx="28" fill="url(#bg)"/>
+<text x="44" y="48" fill="#78eeff" font-family="Arial" font-size="12" font-weight="700" letter-spacing="4">CURRENTLY BUILDING / LEARNING</text>
+<text x="44" y="88" fill="url(#g)" filter="url(#glow)" font-family="Arial" font-size="34" font-weight="800">GENERATIVE AI  ·  RAG  ·  DATA ENGINEERING</text>
+<text x="44" y="118" fill="#a7b7c8" font-family="Arial" font-size="14">moving from isolated models to complete, observable AI-powered products</text>
+<g transform="translate(860,52)">
+<text x="0" y="0" fill="#8fefff" font-family="Arial" font-size="11" letter-spacing="3">SIGNAL</text>
+<g transform="translate(0,25)" fill="url(#g)" filter="url(#glow)">
+<rect class="wave" x="0" y="40" width="9" height="35" rx="4"/><rect class="wave" x="18" y="15" width="9" height="60" rx="4"/><rect class="wave" x="36" y="28" width="9" height="47" rx="4"/><rect class="wave" x="54" y="5" width="9" height="70" rx="4"/><rect class="wave" x="72" y="22" width="9" height="53" rx="4"/><rect class="wave" x="90" y="38" width="9" height="37" rx="4"/><rect class="wave" x="108" y="12" width="9" height="63" rx="4"/>
+</g>
+</g>
+<g font-family="Arial" font-size="12" font-weight="700">
+<rect x="44" y="155" width="165" height="42" rx="21" fill="#09111d" stroke="#22d3ee"/><text x="126" y="181" text-anchor="middle" fill="#7fefff">GENERATIVE AI</text>
+<rect x="225" y="155" width="120" height="42" rx="21" fill="#09111d" stroke="#8b5cf6"/><text x="285" y="181" text-anchor="middle" fill="#d8c5ff">RAG</text>
+<rect x="361" y="155" width="150" height="42" rx="21" fill="#09111d" stroke="#ff2d55"/><text x="436" y="181" text-anchor="middle" fill="#ff93aa">LLMs</text>
+<rect x="527" y="155" width="170" height="42" rx="21" fill="#09111d" stroke="#10b981"/><text x="612" y="181" text-anchor="middle" fill="#9af7cf">DATA ENGINEERING</text>
+</g>
+</svg>
