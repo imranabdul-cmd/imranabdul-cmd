@@ -1,216 +1,204 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Imran A Header" />
+  <img src="assets/header.svg" width="100%" alt="Imran A — futuristic engineering interface" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/imranabdul-cmd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Imran%20A%20%F0%9F%91%8B;AI%20Engineer%20%40%20Owlsure%20%F0%9F%A4%96;Python%20%7C%20.NET%20%7C%20PostgreSQL%20%7C%20Git%20%F0%9F%92%BB;AI%20%7C%20Data%20Science%20%7C%20Software%20Engineering%20%F0%9F%A7%A0;Turning%20ideas%20into%20production-ready%20solutions%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
-  </a>
+  <a href="https://github.com/imranabdul-cmd"><img src="https://img.shields.io/badge/GitHub-imranabdul--cmd-09090b?style=for-the-badge&logo=github&logoColor=white&labelColor=7f1d1d" alt="GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/imran-aupe"><img src="https://img.shields.io/badge/LinkedIn-Connect-09090b?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7f1d1d" alt="LinkedIn profile" /></a>
+  <a href="https://imran-aupe.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Open-09090b?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7f1d1d" alt="Portfolio" /></a>
+  <a href="mailto:imran.abdul.official@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-09090b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7f1d1d" alt="Email Imran" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/imran-a-508637361" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:imran.abdul.official@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="assets/owlsure_6262.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0a0a0a" alt="Resume" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/imranabdul-cmd" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imranabdul-cmd&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
-</p>
+<p align="center"><code>SOFTWARE ENGINEER</code> &nbsp; <code>AI ENGINEER</code> &nbsp; <code>CHENNAI, INDIA</code></p>
 
 ---
 
-<h2 align="center">🔴 About Me</h2>
+## 01 // IDENTITY
+
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│  IMRAN A                                                            │
+│  Software Engineer | AI Engineer                                    │
+│  OwlSure — a business unit of ValueMomentum                         │
+│  Chennai, Tamil Nadu, India                                         │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+I build at the intersection of **software engineering, artificial intelligence, generative AI, and product development**—turning practical problems into useful systems.
+
+## 02 // JOURNEY
+
+```text
+Computer Science
+      │
+      ├── Practical problem solving
+      ├── AI + computer vision projects during college
+      └── Software Engineering + AI + Generative AI + Product Development
+```
+
+My path began with Computer Science and hands-on problem solving. It evolved through AI and computer-vision work into a focused direction: designing and building modern software products augmented by intelligent systems.
+
+## 03 // EDUCATION
+
+| Program | Institution | Status / Result |
+| --- | --- | --- |
+| **MCA — Generative AI** | SRM University, Chennai | Currently pursuing |
+| **B.Sc Computer Science** | PSG College of Arts & Science | 74.77% |
+
+## 04 // PROFESSIONAL EXPERIENCE
+
+### OwlSure — a business unit of [ValueMomentum](https://www.owlsure.com/home-global/?geo=global&geosub=in)
+
+**Software Engineer — AI Engineer role**
+
+Building toward practical, product-minded engineering across software and AI.
+
+## 05 // MISSION POSSIBLE — 1ST PRIZE
+
+```text
+MISSION POSSIBLE / OFFICE EVENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+06 teams  ×  09 members  =  54 participants
+
+RESULT  →  1ST PRIZE
+```
+
+## 06 // CLANSURE
+
+### Family Insurance Management Platform
+
+**AI assistant:** Clara<br>
+**System status:** [Open live system ↗](https://family-portal.up.railway.app/)
+
+```text
+Family insurance management
+            │
+            └── Clara / AI assistant
+```
+
+## 07 // GT COMPANION
+
+### Training & Knowledge Platform
+
+**AI assistant:** Pico<br>
+**System status:** [Open live system ↗](https://gt-companion.up.railway.app/#landing)
+
+```text
+Training + knowledge
+         │
+         └── Pico / AI assistant
+```
+
+## 08 // COMMON ENGINEERING STACK
+
+```text
+┌──────────────── Product & interface ────────────────┐
+│  React · TypeScript · HTML · CSS · JavaScript        │
+└──────────────────────────┬──────────────────────────┘
+                           │
+┌──────────────── Application & intelligence ─────────┐
+│  Python · C# · ASP.NET Core · FastAPI · REST APIs    │
+│  LangChain · Gemini API · LLMs · RAG                 │
+└──────────────────────────┬──────────────────────────┘
+                           │
+┌──────────────── Data & delivery ────────────────────┐
+│  PostgreSQL · Redis · pgvector · GitHub · CI/CD      │
+│  Railway                                             │
+└─────────────────────────────────────────────────────┘
+```
+
+## 09 // LUNG CANCER DETECTION
+
+### Lung Cancer Detection Using Histopathology Images
+
+A computer-vision project using **TensorFlow, Keras, OpenCV, and Python**.
+
+```text
+Histopathology images → Computer vision workflow → Detection output
+```
+
+## 10 // AI AGRI QUALITY INSPECTION
+
+### AI Agri Quality Inspection System
+
+Automated quality grading and profit estimation system built with **Python, Flask, TensorFlow, Keras, OpenCV, HTML, CSS, JavaScript, and SQLite**.
+
+[Explore the repository ↗](https://github.com/imranabdul-cmd/AGRI-GRADE-AUTOMATED-QUALITY-GRADING-AND-PROFIT-ESTIMATION-SYSTEM-)
+
+```text
+Agricultural input → AI quality inspection → Grading + profit estimation
+```
+
+## 11 // TECHNICAL INTERESTS
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=AI-focused.+Software+Engineer.+Always+building+and+learning." width="100%" style="max-width: 600px;" alt="Typing Quote" />
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,react,ts,fastapi,postgres,redis,tensorflow,opencv,git,github&theme=dark" alt="Core engineering technologies" />
+</p>
+
+| Intelligence | Engineering | Data, Cloud & Delivery |
+| --- | --- | --- |
+| Artificial Intelligence · Generative AI · Machine Learning · Deep Learning · Computer Vision · LLMs · RAG | Python · C# · ASP.NET Core · REST APIs · React · TypeScript · FastAPI · LangChain · Gemini API | PostgreSQL · Redis · pgvector · GitHub · CI/CD · Railway · Databricks · Microsoft Fabric · Azure Data Factory · ADLS Gen2 |
+
+## 12 // CURRENT LEARNING
+
+```text
+[ ACTIVE LEARNING QUEUE ]
+01  Generative AI                 05  Databricks
+02  RAG Systems                   06  Microsoft Fabric
+03  Large Language Models         07  Data Engineering
+04  AI Product Development        08  Cloud, deployment & modern full-stack development
+```
+
+## 13 // CERTIFICATION VAULT
+
+```text
+STATUS: No certifications listed in this profile.
+```
+
+A deliberately reserved space for verified credentials as they are earned.
+
+## 14 // ENGINEERING PRINCIPLES
+
+- **Start with the real problem.** Build for practical use, not novelty alone.
+- **Join intelligence with engineering.** AI is most valuable when it strengthens a complete product.
+- **Keep learning in public through work.** Every project is an opportunity to sharpen systems thinking.
+
+## 15 // GITHUB ANALYTICS
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=imranabdul-cmd&show_icons=true&bg_color=09090b&title_color=ef4444&text_color=f8fafc&icon_color=ef4444&border_color=7f1d1d&border_radius=10" height="170" alt="GitHub statistics" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=imranabdul-cmd&layout=compact&bg_color=09090b&title_color=ef4444&text_color=f8fafc&border_color=7f1d1d&border_radius=10" height="170" alt="Top languages" />
+</p>
+
+## 16 // CONTRIBUTION MATRIX
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imranabdul-cmd/imranabdul-cmd/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution matrix" />
+</p>
+
+## 17 // LIVE SYSTEMS
+
+| System | Purpose | Access |
+| --- | --- | --- |
+| **ClanSure** | Family Insurance Management Platform · Clara AI assistant | [Launch ↗](https://family-portal.up.railway.app/) |
+| **GT Companion** | Training & Knowledge Platform · Pico AI assistant | [Launch ↗](https://gt-companion.up.railway.app/#landing) |
+| **Portfolio** | Personal portfolio | [Open ↗](https://imran-aupe.vercel.app/) |
+
+## 18 // CONNECT
+
+<p align="center">
+  <a href="https://github.com/imranabdul-cmd">GitHub</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/imran-aupe">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="https://imran-aupe.vercel.app/">Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:imran.abdul.official@gmail.com">imran.abdul.official@gmail.com</a>
 </p>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyNHk5Zjl3ZnBndXU3cDV6YnhrZXdseWd5azB3Y2RrbXliOTdrZ29oYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LORtpngLIJsy6bwTih/giphy.webp" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
+  <img src="assets/quote.svg" width="100%" alt="Code and art quote" />
 </p>
-
-<p align="center">
-  Hey! I'm <b>Imran A</b>, a <b>B.Sc Computer Science</b> graduate and <b>AI Engineer</b> at <b>Owlsure</b>, based in Coimbatore, India.<br />
-  I work on AI-driven software solutions, backend systems, APIs, and data-focused applications — turning ideas into practical and scalable solutions.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-🟢_Building_%26_Shipping-111111?style=flat-square" alt="Status" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Degree-B.Sc._Computer_Science-DC2626?style=flat-square" alt="Degree" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Role-AI_Engineer-111111?style=flat-square" alt="Role" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Company-Owlsure-DC2626?style=flat-square" alt="Company" />
-</p>
-
-<p align="center">
-  💬 <b>Let's Discuss:</b> Python, .NET, PostgreSQL, AI, Data Science, System Design & Git Workflows.<br />
-  ⚡ <b>Philosophy:</b> <i>"I turn random 2 AM ideas into production-ready code!"</i>
-</p>
-
-<table width="100%" border="0" align="center">
-<tr>
-<td width="50%" align="center" style="padding: 14px;">
-  <h4>🤖 Current Role</h4>
-  <p>
-    <b>AI Engineer @ Owlsure</b><br />
-    <sub>AI-driven Software & Data Solutions</sub>
-  </p>
-</td>
-
-<td width="50%" align="center" style="padding: 14px;">
-  <h4>🌱 Active Deep Dives</h4>
-  <p>
-    <b>AI & Data Science</b><br />
-    <sub>Software Engineering & Data Technologies</sub>
-  </p>
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center" style="padding: 14px;">
-  <h4>📱 Portfolio</h4>
-  <p>
-    <a href="https://imranabdul-cmd.github.io/portfolio" target="_blank">
-      <b>View Portfolio</b>
-    </a><br />
-    <sub>Projects & Case Studies</sub>
-  </p>
-</td>
-
-<td width="50%" align="center" style="padding: 14px;">
-  <h4>🧠 Interests</h4>
-  <p>
-    <b>Artificial Intelligence & Data</b><br />
-    <sub>Building practical software solutions</sub>
-  </p>
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">🛠️ Tech Stack & Skills</h2>
-
-<p align="center"><b>Core Programming Languages</b></p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,html,css&theme=dark" width="100%" style="max-width: 340px;" alt="Languages" />
-  </a>
-</p>
-
-<p align="center"><b>Backend, Web & Databases</b></p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,postgres,git,github&theme=dark" width="100%" style="max-width: 280px;" alt="Backend and Databases" />
-  </a>
-</p>
-
-<p align="center"><b>AI, Data Science & Tools</b></p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,vscode,github&theme=dark" width="100%" style="max-width: 280px;" alt="AI and Data Science Tools" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=EF4444" alt="Pandas" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/NumPy-0a0a0a?style=for-the-badge&logo=numpy&logoColor=EF4444" alt="NumPy" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Keras-0a0a0a?style=for-the-badge&logo=keras&logoColor=EF4444" alt="Keras" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Antigravity-0a0a0a?style=for-the-badge&logo=google&logoColor=EF4444" alt="Antigravity" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/REST_API-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=EF4444" alt="REST API" />
-</p>
-
----
-
-<h2 align="center">📊 GitHub Analytics & Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=imranabdul-cmd&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=imranabdul-cmd&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imranabdul-cmd&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Code and Art Quote" />
-</p>
-
----
-
-<h2 align="center">⚡ Contribution Journey</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/imranabdul-cmd/imranabdul-cmd/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
-</p>
-
----
-
-<h2 align="center">📬 Let's Connect</h2>
-
-<p align="center">
-  <i>Whether you want to discuss AI, software engineering, data, or just say hello — my inbox is always open!</i>
-</p>
-
-<table border="0" align="center">
-<tr>
-
-<td align="center" width="220" style="padding: 16px;">
-  <a href="https://www.linkedin.com/in/imran-a-508637361" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
-    <br /><br />
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
-  </a>
-  <br />
-  <sub><b>Professional Network</b></sub>
-</td>
-
-<td align="center" width="220" style="padding: 16px;">
-  <a href="https://imranabdul-cmd.github.io/portfolio" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="Portfolio" />
-    <br /><br />
-    <img src="https://img.shields.io/badge/Portfolio-Visit-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0a" alt="Portfolio" />
-  </a>
-  <br />
-  <sub><b>Projects & Case Studies</b></sub>
-</td>
-
-<td align="center" width="220" style="padding: 16px;">
-  <a href="mailto:imran.abdul.official@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
-    <br /><br />
-    <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
-  </a>
-  <br />
-  <sub><b>Direct Collaboration</b></sub>
-</td>
-
-</tr>
-</table>
 
 <p align="center">
   <img src="assets/footer.svg" width="100%" alt="Footer" />
