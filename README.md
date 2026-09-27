@@ -4,6 +4,12 @@
   <img src="assets/hero-dots-v4.svg" width="100%" alt="Animated dot-matrix coding visualization with glowing Imran A identity and AI engineering network" />
 </a>
 
+<br/><br/>
+
+<a href="https://imranabdul-cmd.github.io/imranabdul-cmd/visual-lab/">
+  <img src="https://img.shields.io/badge/OPEN%203D%20AI%20LAB-090B12?style=for-the-badge&logo=three.js&logoColor=22D3EE&color=8B5CF6" alt="Open the interactive Three.js AI lab" />
+</a>
+
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=800&color=22D3EE&center=true&vCenter=true&width=920&lines=Software+Engineering+%C3%97+Artificial+Intelligence;Generative+AI+%C3%97+RAG+%C3%97+Product+Engineering;From+problem+%E2%86%92+product+%E2%86%92+intelligence+%E2%86%92+delivery;Building+systems+that+ship%2C+not+just+experiments" alt="Animated profile headline" />
