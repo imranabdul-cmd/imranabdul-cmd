@@ -143,4 +143,8 @@ jobs:
           fi
 
           git commit -m "Build optimized cinematic hero media [skip hero]"
+          # The README/workflow can change while media is being rendered. Rebase
+          # the generated-media commit onto the latest main before pushing.
+          git fetch origin main
+          git rebase origin/main
           git push
