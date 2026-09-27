@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/imranabdul-cmd">
-  <img src="assets/hero-dots-v3.svg" width="100%" alt="Animated dot-matrix coding visualization with glowing Imran A identity and AI engineering network" />
+  <img src="assets/hero-dots-v4.svg" width="100%" alt="Animated dot-matrix coding visualization with glowing Imran A identity and AI engineering network" />
 </a>
 
 <br/>
