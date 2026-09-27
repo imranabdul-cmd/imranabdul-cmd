@@ -1,205 +1,106 @@
-<p align="center">
-  <img src="assets/header.svg" width="100%" alt="Imran A — futuristic engineering interface" />
-</p>
+<p align="center"><img src="assets/hero.svg" width="100%" alt="Imran A — futuristic AI engineering command center" /></p>
 
 <p align="center">
-  <a href="https://github.com/imranabdul-cmd"><img src="https://img.shields.io/badge/GitHub-imranabdul--cmd-09090b?style=for-the-badge&logo=github&logoColor=white&labelColor=7f1d1d" alt="GitHub profile" /></a>
-  <a href="https://www.linkedin.com/in/imran-aupe"><img src="https://img.shields.io/badge/LinkedIn-Connect-09090b?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7f1d1d" alt="LinkedIn profile" /></a>
-  <a href="https://imran-aupe.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Open-09090b?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7f1d1d" alt="Portfolio" /></a>
-  <a href="mailto:imran.abdul.official@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-09090b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7f1d1d" alt="Email Imran" /></a>
+  <a href="https://github.com/imranabdul-cmd">GitHub</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/imran-aupe">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:imran.abdul.official@gmail.com">Email</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://imran-aupe.vercel.app/">Portfolio</a>
 </p>
 
-<p align="center"><code>SOFTWARE ENGINEER</code> &nbsp; <code>AI ENGINEER</code> &nbsp; <code>CHENNAI, INDIA</code></p>
+## 01 // SIGNAL
 
----
+> **Imran A** · Software Engineer | AI Engineer<br />
+> **OwlSure** — a business unit of ValueMomentum · Chennai, Tamil Nadu, India
 
-## 01 // IDENTITY
+<p align="center"><img src="assets/system.svg" width="100%" alt="Problem to impact engineering signal" /></p>
 
-```text
-┌──────────────────────────────────────────────────────────────────────┐
-│  IMRAN A                                                            │
-│  Software Engineer | AI Engineer                                    │
-│  OwlSure — a business unit of ValueMomentum                         │
-│  Chennai, Tamil Nadu, India                                         │
-└──────────────────────────────────────────────────────────────────────┘
-```
-
-I build at the intersection of **software engineering, artificial intelligence, generative AI, and product development**—turning practical problems into useful systems.
+`SOFTWARE` `AI` `GENERATIVE AI` `PRODUCT ENGINEERING`
 
 ## 02 // JOURNEY
 
-```text
-Computer Science
-      │
-      ├── Practical problem solving
-      ├── AI + computer vision projects during college
-      └── Software Engineering + AI + Generative AI + Product Development
-```
+**Computer Science** → practical problem solving → AI and computer-vision projects → **software + AI product engineering**.
 
-My path began with Computer Science and hands-on problem solving. It evolved through AI and computer-vision work into a focused direction: designing and building modern software products augmented by intelligent systems.
+## 03 // EXPERIENCE
 
-## 03 // EDUCATION
+### OwlSure / ValueMomentum
 
-| Program | Institution | Status / Result |
-| --- | --- | --- |
-| **MCA — Generative AI** | SRM University, Chennai | Currently pursuing |
-| **B.Sc Computer Science** | PSG College of Arts & Science | 74.77% |
+**Software Engineer · AI Engineer**<br />
+Building practical, product-minded software and AI systems.
 
-## 04 // PROFESSIONAL EXPERIENCE
+## 04 // TECH DNA
 
-### OwlSure — a business unit of [ValueMomentum](https://www.owlsure.com/home-global/?geo=global&geosub=in)
+<p align="center"><img src="assets/tech-dna.svg" width="100%" alt="Technology DNA map" /></p>
 
-**Software Engineer — AI Engineer role**
-
-Building toward practical, product-minded engineering across software and AI.
-
-## 05 // MISSION POSSIBLE — 1ST PRIZE
-
-```text
-MISSION POSSIBLE / OFFICE EVENT
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-06 teams  ×  09 members  =  54 participants
-
-RESULT  →  1ST PRIZE
-```
-
-## 06 // CLANSURE
-
-### Family Insurance Management Platform
-
-**AI assistant:** Clara<br>
-**System status:** [Open live system ↗](https://family-portal.up.railway.app/)
-
-```text
-Family insurance management
-            │
-            └── Clara / AI assistant
-```
-
-## 07 // GT COMPANION
-
-### Training & Knowledge Platform
-
-**AI assistant:** Pico<br>
-**System status:** [Open live system ↗](https://gt-companion.up.railway.app/#landing)
-
-```text
-Training + knowledge
-         │
-         └── Pico / AI assistant
-```
-
-## 08 // COMMON ENGINEERING STACK
-
-```text
-┌──────────────── Product & interface ────────────────┐
-│  React · TypeScript · HTML · CSS · JavaScript        │
-└──────────────────────────┬──────────────────────────┘
-                           │
-┌──────────────── Application & intelligence ─────────┐
-│  Python · C# · ASP.NET Core · FastAPI · REST APIs    │
-│  LangChain · Gemini API · LLMs · RAG                 │
-└──────────────────────────┬──────────────────────────┘
-                           │
-┌──────────────── Data & delivery ────────────────────┐
-│  PostgreSQL · Redis · pgvector · GitHub · CI/CD      │
-│  Railway                                             │
-└─────────────────────────────────────────────────────┘
-```
-
-## 09 // LUNG CANCER DETECTION
-
-### Lung Cancer Detection Using Histopathology Images
-
-A computer-vision project using **TensorFlow, Keras, OpenCV, and Python**.
-
-```text
-Histopathology images → Computer vision workflow → Detection output
-```
-
-## 10 // AI AGRI QUALITY INSPECTION
-
-### AI Agri Quality Inspection System
-
-Automated quality grading and profit estimation system built with **Python, Flask, TensorFlow, Keras, OpenCV, HTML, CSS, JavaScript, and SQLite**.
-
-[Explore the repository ↗](https://github.com/imranabdul-cmd/AGRI-GRADE-AUTOMATED-QUALITY-GRADING-AND-PROFIT-ESTIMATION-SYSTEM-)
-
-```text
-Agricultural input → AI quality inspection → Grading + profit estimation
-```
-
-## 11 // TECHNICAL INTERESTS
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,react,ts,fastapi,postgres,redis,tensorflow,opencv,git,github&theme=dark" alt="Core engineering technologies" />
-</p>
-
-| Intelligence | Engineering | Data, Cloud & Delivery |
+| Intelligence | Engineering | Data · Cloud · Delivery |
 | --- | --- | --- |
 | Artificial Intelligence · Generative AI · Machine Learning · Deep Learning · Computer Vision · LLMs · RAG | Python · C# · ASP.NET Core · REST APIs · React · TypeScript · FastAPI · LangChain · Gemini API | PostgreSQL · Redis · pgvector · GitHub · CI/CD · Railway · Databricks · Microsoft Fabric · Azure Data Factory · ADLS Gen2 |
 
-## 12 // CURRENT LEARNING
+## 05 // FEATURED SYSTEMS
 
-```text
-[ ACTIVE LEARNING QUEUE ]
-01  Generative AI                 05  Databricks
-02  RAG Systems                   06  Microsoft Fabric
-03  Large Language Models         07  Data Engineering
-04  AI Product Development        08  Cloud, deployment & modern full-stack development
-```
+<p align="center"><img src="assets/projects.svg" width="100%" alt="Featured engineering systems" /></p>
 
-## 13 // CERTIFICATION VAULT
+| System | Mission | Intelligence | Status |
+| --- | --- | --- | --- |
+| **[ClanSure](https://family-portal.up.railway.app/)** | Family Insurance Management Platform | Clara · AI Assistant | Live system ↗ |
+| **[GT Companion](https://gt-companion.up.railway.app/#landing)** | Training & Knowledge Platform | Pico · AI Assistant | Live system ↗ |
 
-```text
-STATUS: No certifications listed in this profile.
-```
+## 06 // AI ARCHITECTURE
 
-A deliberately reserved space for verified credentials as they are earned.
+<p align="center"><img src="assets/architecture.svg" width="100%" alt="AI-enabled product architecture diagram" /></p>
 
-## 14 // ENGINEERING PRINCIPLES
+## 07 // OTHER BUILDS
 
-- **Start with the real problem.** Build for practical use, not novelty alone.
-- **Join intelligence with engineering.** AI is most valuable when it strengthens a complete product.
-- **Keep learning in public through work.** Every project is an opportunity to sharpen systems thinking.
-
-## 15 // GITHUB ANALYTICS
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=imranabdul-cmd&show_icons=true&bg_color=09090b&title_color=ef4444&text_color=f8fafc&icon_color=ef4444&border_color=7f1d1d&border_radius=10" height="170" alt="GitHub statistics" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=imranabdul-cmd&layout=compact&bg_color=09090b&title_color=ef4444&text_color=f8fafc&border_color=7f1d1d&border_radius=10" height="170" alt="Top languages" />
-</p>
-
-## 16 // CONTRIBUTION MATRIX
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/imranabdul-cmd/imranabdul-cmd/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution matrix" />
-</p>
-
-## 17 // LIVE SYSTEMS
-
-| System | Purpose | Access |
+| Build | Focus | Access |
 | --- | --- | --- |
-| **ClanSure** | Family Insurance Management Platform · Clara AI assistant | [Launch ↗](https://family-portal.up.railway.app/) |
-| **GT Companion** | Training & Knowledge Platform · Pico AI assistant | [Launch ↗](https://gt-companion.up.railway.app/#landing) |
-| **Portfolio** | Personal portfolio | [Open ↗](https://imran-aupe.vercel.app/) |
+| **AI Agri Quality Inspection** | Automated quality grading and profit estimation | [Repository ↗](https://github.com/imranabdul-cmd/AGRI-GRADE-AUTOMATED-QUALITY-GRADING-AND-PROFIT-ESTIMATION-SYSTEM-) |
+| **Lung Cancer Detection** | Histopathology-image computer vision | AI / deep-learning project |
 
-## 18 // CONNECT
+## 08 // EDUCATION
+
+| Program | Institution | Status / Result |
+| --- | --- | --- |
+| **MCA — Generative AI** | SRM University, Chennai | Currently Pursuing |
+| **B.Sc Computer Science** | PSG College of Arts & Science | 74.77% |
+
+## 09 // CURRENT FOCUS
 
 <p align="center">
-  <a href="https://github.com/imranabdul-cmd">GitHub</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/imran-aupe">LinkedIn</a>
-  &nbsp;•&nbsp;
+  <code>Generative AI</code> · <code>RAG</code> · <code>LLMs</code> · <code>AI Product Development</code> · <code>Databricks</code><br />
+  <code>Microsoft Fabric</code> · <code>Data Engineering</code> · <code>Cloud &amp; Deployment</code> · <code>Modern Full-Stack Development</code>
+</p>
+
+## 10 // ACHIEVEMENT
+
+### 🏆 Mission Possible — 1st Prize
+
+> **Trophy image placeholder** — verified event image can be added here when available.
+
+## 11 // GITHUB ACTIVITY
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=imranabdul-cmd&show_icons=true&bg_color=070a0f&title_color=ff5268&text_color=e9f2f4&icon_color=22d3ee&border_color=283b43&border_radius=12" height="170" alt="GitHub statistics" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=imranabdul-cmd&layout=compact&bg_color=070a0f&title_color=ff5268&text_color=e9f2f4&border_color=283b43&border_radius=12" height="170" alt="Top languages" />
+</p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/imranabdul-cmd/imranabdul-cmd/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution activity" /></p>
+
+## 12 // LIVE SYSTEMS
+
+| System | Link |
+| --- | --- |
+| ClanSure | [Launch ↗](https://family-portal.up.railway.app/) |
+| GT Companion | [Launch ↗](https://gt-companion.up.railway.app/#landing) |
+| AI Agri Quality Inspection | [Repository ↗](https://github.com/imranabdul-cmd/AGRI-GRADE-AUTOMATED-QUALITY-GRADING-AND-PROFIT-ESTIMATION-SYSTEM-) |
+| OwlSure | [Visit ↗](https://www.owlsure.com/home-global/?geo=global&geosub=in) |
+| Portfolio | [Open ↗](https://imran-aupe.vercel.app/) |
+
+## 13 // CONNECT
+
+<p align="center">
+  <a href="https://github.com/imranabdul-cmd">GitHub</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/imran-aupe">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:imran.abdul.official@gmail.com">imran.abdul.official@gmail.com</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://imran-aupe.vercel.app/">Portfolio</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:imran.abdul.official@gmail.com">imran.abdul.official@gmail.com</a>
 </p>
 
-<p align="center">
-  <img src="assets/quote.svg" width="100%" alt="Code and art quote" />
-</p>
-
-<p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Footer" />
-</p>
+<p align="center"><img src="assets/footer.svg" width="100%" alt="Imran A — building intelligent, useful systems" /></p>
