@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1100" height="92" viewBox="0 0 1100 92" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="🧬 How my AI products think">
+<defs>
+  <linearGradient id="g" x1="0" x2="1">
+    <stop offset="0" stop-color="#00f0ff"/>
+    <stop offset=".52" stop-color="#7c7cff"/>
+    <stop offset="1" stop-color="#ff2bd6"/>
+  </linearGradient>
+  <filter id="glow" x="-25%" y="-80%" width="150%" height="260%">
+    <feGaussianBlur stdDeviation="4" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <linearGradient id="shine" x1="0" x2="1">
+    <stop offset="0" stop-color="#00f0ff" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#ffffff" stop-opacity=".95"/>
+    <stop offset="1" stop-color="#00f0ff" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+
+<text x="550" y="53" text-anchor="middle"
+      font-family="Verdana,Arial,sans-serif"
+      font-weight="900"
+      font-size="34"
+      letter-spacing="1.6"
+      fill="url(#g)"
+      filter="url(#glow)">
+  🧬 How my AI products think
+  <animate attributeName="opacity" values="0.82;1;0.82" dur="2.4s" repeatCount="indefinite"/>
+</text>
+
+<rect x="250" y="69" width="600" height="2.5" rx="1.25" fill="url(#g)" opacity=".55"/>
+<rect x="0" y="68" width="170" height="3" rx="1.5" fill="url(#shine)">
+  <animate attributeName="x" values="-180;1110;-180" dur="3.8s" repeatCount="indefinite"/>
+</rect>
+
+<circle cx="210" cy="70" r="3.5" fill="#00f0ff" filter="url(#glow)">
+  <animate attributeName="r" values="2.5;5;2.5" dur="1.8s" repeatCount="indefinite"/>
+</circle>
+<circle cx="890" cy="70" r="3.5" fill="#ff2bd6" filter="url(#glow)">
+  <animate attributeName="r" values="2.5;5;2.5" dur="2.1s" repeatCount="indefinite"/>
+</circle>
+</svg>
