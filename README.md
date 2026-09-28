@@ -4,10 +4,12 @@
 
 </div>
 
+<img src="assets/divider.svg" width="100%"/>
+
 <table>
 <tr>
-<td width="40%" align="center"><img src="assets/robot.svg" alt="AI robot" width="320"/></td>
-<td>
+<td width="38%" align="center"><img src="assets/robot.svg" alt="AI robot" width="320"/></td>
+<td width="62%">
 
 ### 🧠 About
 ```js
@@ -26,63 +28,62 @@ const imran = {
 </tr>
 </table>
 
+<div align="center"><img src="assets/terminal.svg" alt="terminal" width="90%"/></div>
+
+<img src="assets/divider.svg" width="100%"/>
+
+## 🧬 How my AI products think
+Every product I build follows one RAG pipeline: understand the query, retrieve context from pgvector, reason with an LLM, answer with grounded facts.
+
+<div align="center"><img src="assets/neural.svg" alt="RAG flow" width="85%"/></div>
+
+<img src="assets/divider.svg" width="100%"/>
+
 ## 🚀 Projects
 
-| | Project | What it does | Stack |
-|---|---|---|---|
-| 👨‍👩‍👧 | **[ClanSure](https://family-portal.up.railway.app/)** | Family insurance management in one place: policies, documents, claims, renewals, family tree, protection score. **Clara** (AI assistant) answers from your data. | React · TypeScript · ASP.NET Core · FastAPI · LangChain · Gemini · PostgreSQL + pgvector · Redis |
-| 🎓 | **[GT Companion](https://gt-companion.up.railway.app/#landing)** | Structured training platform: roadmaps, study material, videos, quizzes. **Pico** (AI assistant) guides new trainees. | Same stack as ClanSure |
-| 🍎 | **[AI Agri Quality Inspection](https://github.com/imranabdul-cmd/AGRI-GRADE-AUTOMATED-QUALITY-GRADING-AND-PROFIT-ESTIMATION-SYSTEM-)** | Detects fruit defects, grades quality and estimates profit from images. | Python · Flask · TensorFlow · Keras · OpenCV |
+<a href="https://family-portal.up.railway.app/"><img src="assets/card-clansure.svg" width="100%" alt="ClanSure"/></a>
+<a href="https://gt-companion.up.railway.app/#landing"><img src="assets/card-gt.svg" width="100%" alt="GT Companion"/></a>
+<a href="https://github.com/imranabdul-cmd/AGRI-GRADE-AUTOMATED-QUALITY-GRADING-AND-PROFIT-ESTIMATION-SYSTEM-"><img src="assets/card-agri.svg" width="100%" alt="AI Agri Quality Inspection"/></a>
 
-## 🏆 Mission Possible - 1st Prize
-Office competition: 6 teams, 54 participants. Our team built **two** products, ClanSure and GT Companion, and took first place.
+<img src="assets/divider.svg" width="100%"/>
 
-## 🛠️ Tech Stack
+## 🏆 Achievement
 
-**AI / GenAI**
+<img src="assets/trophy.svg" width="100%" alt="Mission Possible 1st Prize"/>
 
-![](https://skillicons.dev/icons?i=python,tensorflow,fastapi,opencv&theme=dark)
+<img src="assets/divider.svg" width="100%"/>
 
-**Backend & Data**
+## 🛰️ Tech Stack
 
-![](https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,azure&theme=dark)
+<div align="center"><img src="assets/orbit.svg" alt="Tech stack" width="70%"/></div>
 
-**Frontend & DevOps**
+<details>
+<summary><b>Full icon stack</b></summary>
 
-![](https://skillicons.dev/icons?i=react,ts,tailwind,vite,github,githubactions&theme=dark)
+![](https://skillicons.dev/icons?i=python,tensorflow,fastapi,opencv,cs,dotnet,postgres,redis,azure,react,ts,tailwind,vite,github,githubactions&theme=dark)
+
+</details>
+
+<img src="assets/divider.svg" width="100%"/>
+
+## 📊 Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=imranabdul-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=05070f" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=imranabdul-cmd&theme=tokyonight&hide_border=true&background=05070f" height="165"/>
+
+<img src="https://raw.githubusercontent.com/imranabdul-cmd/imranabdul-cmd/output/github-snake-dark.svg" width="100%" alt="contribution snake"/>
+
+<img src="assets/divider.svg" width="100%"/>
 
 ## 📡 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-imran--aupe-00f0ff?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0a0f2e)](https://www.linkedin.com/in/imran-aupe)
 [![Email](https://img.shields.io/badge/Email-imran.abdul.official-b44dff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f2e)](mailto:imran.abdul.official@gmail.com)
+[![OwlSure](https://img.shields.io/badge/OwlSure-Website-ff2bd6?style=for-the-badge&labelColor=0a0f2e)](https://www.owlsure.com/home-global/?geo=global&geosub=in)
 
 <div align="center">
 
 ### 🌐 [Enter the 3D Experience](https://imranabdul-cmd.github.io)
 
-</div>
+<img src="assets/footer.svg" width="100%"/>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=imranabdul-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f2e" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imranabdul-cmd&theme=tokyonight&hide_border=true&background=0a0f2e" height="160"/>
-
-</div>
-
-### 📊 Contribution Intelligence
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imranabdul-cmd&theme=tokyo-night&hide_border=true&bg_color=0a0f2e&color=00f0ff&line=b44dff&point=ffffff" width="98%"/>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranabdul-cmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f2e&title_color=00f0ff" height="160"/>
-</div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=imranabdul-cmd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="98%"/>
 </div>
