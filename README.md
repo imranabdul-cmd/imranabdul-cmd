@@ -25,27 +25,37 @@
 
 <img src="assets/divider.svg" width="100%"/>
 
-<div align="center"><img src="assets/headings/projects.svg" alt="Projects" width="92%"/></div>
+## 🚀 Projects
+
+<div align="center"><img src="assets/headings/accent.svg" alt="" width="92%"/></div>
 
 <a href="https://family-portal.up.railway.app/"><img src="assets/card-clansure.svg" width="100%" alt="ClanSure"/></a>
 <a href="https://gt-companion.up.railway.app/#landing"><img src="assets/card-gt.svg" width="100%" alt="GT Companion"/></a>
 <a href="https://github.com/imranabdul-cmd/AGRI-GRADE-AUTOMATED-QUALITY-GRADING-AND-PROFIT-ESTIMATION-SYSTEM-"><img src="assets/card-agri.svg" width="100%" alt="AI Agri Quality Inspection"/></a>
 
-<div align="center"><img src="assets/headings/architecture.svg" alt="How ClanSure and GT Companion are built" width="92%"/></div>
+### 🏗️ How ClanSure and GT Companion are built
+
+<div align="center"><img src="assets/headings/accent.svg" alt="" width="92%"/></div>
 <div align="center"><img src="assets/architecture.svg" alt="architecture" width="100%"/></div>
 
-<div align="center"><img src="assets/headings/ai-thinking.svg" alt="How my AI products think" width="92%"/></div>
+### 🧬 How my AI products think
+
+<div align="center"><img src="assets/headings/accent.svg" alt="" width="92%"/></div>
 <div align="center"><img src="assets/neural.svg" alt="RAG flow" width="85%"/></div>
 
 <img src="assets/divider.svg" width="100%"/>
 
-<div align="center"><img src="assets/headings/achievement.svg" alt="Achievement" width="92%"/></div>
+## 🏆 Achievement
+
+<div align="center"><img src="assets/headings/accent.svg" alt="" width="92%"/></div>
 
 <img src="assets/trophy.svg" width="100%" alt="Mission Possible 1st Prize"/>
 
 <img src="assets/divider.svg" width="100%"/>
 
-<div align="center"><img src="assets/headings/stack-focus.svg" alt="Stack and Focus" width="92%"/></div>
+## 🛰️ Stack and Focus
+
+<div align="center"><img src="assets/headings/accent.svg" alt="" width="92%"/></div>
 
 <table>
 <tr>
@@ -63,7 +73,9 @@
 
 <img src="assets/divider.svg" width="100%"/>
 
-<div align="center"><img src="assets/headings/arcade.svg" alt="Arcade" width="92%"/></div>
+## 🕹️ Arcade
+
+<div align="center"><img src="assets/headings/accent.svg" alt="" width="92%"/></div>
 
 <div align="center">
 <img src="assets/space-defender.svg" alt="space defender" width="90%"/>
@@ -84,7 +96,9 @@
 
 <img src="assets/divider.svg" width="100%"/>
 
-<div align="center"><img src="assets/headings/connect.svg" alt="Connect" width="92%"/></div>
+## 📡 Connect
+
+<div align="center"><img src="assets/headings/accent.svg" alt="" width="92%"/></div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-imran--aupe-00f0ff?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0a0f2e)](https://www.linkedin.com/in/imran-aupe)
 [![Email](https://img.shields.io/badge/Email-imran.abdul.official-b44dff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f2e)](mailto:imran.abdul.official@gmail.com)

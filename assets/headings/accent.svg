@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1100" height="34" viewBox="0 0 1100 34" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="animated section divider">
+<defs>
+  <linearGradient id="line" x1="0" x2="1">
+    <stop offset="0" stop-color="#b9c2cf" stop-opacity=".15"/>
+    <stop offset=".5" stop-color="#00a9c7" stop-opacity=".65"/>
+    <stop offset="1" stop-color="#b9c2cf" stop-opacity=".15"/>
+  </linearGradient>
+  <linearGradient id="shine" x1="0" x2="1">
+    <stop offset="0" stop-color="#00a9c7" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#ffffff" stop-opacity=".95"/>
+    <stop offset="1" stop-color="#00a9c7" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<rect x="170" y="16" width="760" height="2" rx="1" fill="url(#line)"/>
+<rect x="0" y="15" width="150" height="3" rx="1.5" fill="url(#shine)">
+  <animate attributeName="x" values="-170;1120;-170" dur="4.8s" repeatCount="indefinite"/>
+</rect>
+<circle cx="150" cy="17" r="3" fill="#00a9c7" opacity=".7">
+  <animate attributeName="r" values="2.2;4;2.2" dur="2.1s" repeatCount="indefinite"/>
+</circle>
+<circle cx="950" cy="17" r="3" fill="#607d95" opacity=".65">
+  <animate attributeName="r" values="2.2;4;2.2" dur="2.4s" repeatCount="indefinite"/>
+</circle>
+</svg>
