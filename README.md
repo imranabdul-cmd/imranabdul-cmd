@@ -54,6 +54,22 @@
 </tr>
 </table>
 
+### 💻 Languages I Work With
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cs,js,ts,html,css&theme=light" alt="Python, C#, JavaScript, TypeScript, HTML, CSS" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+
+<br/>
+
+<sub><b>Python</b> · <b>C#</b> · <b>JavaScript</b> · <b>TypeScript</b> · <b>HTML</b> · <b>CSS</b> · <b>SQL</b></sub>
+
+</div>
+
 <details>
 <summary><b>Full icon stack</b></summary>
 
