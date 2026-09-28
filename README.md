@@ -21,7 +21,20 @@
 </tr>
 </table>
 
-<div align="center"><img src="assets/matrix.svg" alt="matrix code rain" width="90%"/></div>
+<div align="center">
+
+<pre>
+<span style="color:#00f0ff">01 AI # { } [ ] 01 &lt; &gt; 10 01 AI # { } [ ]</span>
+<span style="color:#b44dff">AI 01 { } # 10 [ ] AI &lt; &gt; 01 # { } AI</span>
+<span style="color:#00f0ff"># 01 [ AI ] { 10 } &lt; RAG &gt; AI # 01</span>
+<span style="color:#b44dff">10 AI &lt; DATA &gt; 01 # { FULL-STACK } 10</span>
+<span style="color:#00f0ff">01 { } # AI / DATA / GENAI / RAG # { } 01</span>
+</pre>
+
+**AI · DATA · FULL-STACK**  
+<sub>building intelligent products, one pipeline at a time.</sub>
+
+</div>
 
 <img src="assets/divider.svg" width="100%"/>
 
