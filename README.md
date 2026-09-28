@@ -58,66 +58,66 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cs,js,ts,html,css&theme=light" alt="Python, C#, JavaScript, TypeScript, HTML, CSS"/>
+<img src="https://skillicons.dev/icons?i=python,cs,js,ts,html,css&theme=light" alt="Python, C#, JavaScript, TypeScript, HTML, CSS" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logoColor=white" alt="SQL"/>
+<b>SQL</b> · <b>Python</b> · <b>C#</b> · <b>JavaScript</b> · <b>TypeScript</b> · <b>HTML</b> · <b>CSS</b>
 
 </div>
 
-### ⚛️ Frontend
+<div align="center"><img src="assets/headings/frontend-gooey.svg" alt="⚛️ Frontend" width="92%"/></div>
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=light" alt="React, Vite, Tailwind CSS"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Shadcn%2FUI-111827?style=for-the-badge" alt="Shadcn UI"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Lucide%20React-111827?style=for-the-badge" alt="Lucide React"/>
-
-</div>
-
-### ⚙️ Backend & AI
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,fastapi&theme=light" alt="C#, ASP.NET Core, Python, FastAPI"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core"/>
-&nbsp;
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/>
+<b>React</b> · <b>TypeScript</b> · <b>Vite</b> · <b>Tailwind CSS</b> · <b>Shadcn/UI</b> · <b>Lucide React</b>
 
 </div>
 
-### 🗄️ Data, Cache & Vector Search
+<div align="center"><img src="assets/headings/backend-ai-gooey.svg" alt="⚙️ Backend & AI" width="92%"/></div>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,fastapi,tensorflow,opencv&theme=light" alt="C#, .NET, Python, FastAPI, TensorFlow, OpenCV"/>
+
+<br/>
+
+<b>ASP.NET Core</b> · <b>C#</b> · <b>Entity Framework Core</b> · <b>Python</b> · <b>FastAPI</b> · <b>TensorFlow</b> · <b>OpenCV</b> · <b>LangChain</b> · <b>Gemini API</b>
+
+</div>
+
+<div align="center"><img src="assets/headings/data-gooey.svg" alt="🗄️ Data, Cache & Vector Search" width="92%"/></div>
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=postgres,redis&theme=light" alt="PostgreSQL, Redis"/>
-&nbsp;
-<img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector"/>
+
+<br/>
+
+<b>PostgreSQL</b> · <b>pgvector</b> · <b>Redis</b> · <b>RAG document embeddings / vectors</b>
 
 </div>
 
-### 🔧 Git, GitHub & Deployment
+<div align="center"><img src="assets/headings/devops-gooey.svg" alt="🔧 Git, GitHub & Deployment" width="92%"/></div>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions&theme=light" alt="Git, GitHub, GitHub Actions"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Railway-111827?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,railway,azure&theme=light" alt="Git, GitHub, GitHub Actions, Railway, Azure"/>
+
+<br/>
+
+<b>Git</b> · <b>GitHub</b> · <b>GitHub Actions</b> · <b>Railway</b> · <b>Azure</b> · <b>CI/CD & Deployment</b>
 
 </div>
 
 <details>
-<summary><b>Full icon stack</b></summary>
+<summary><b>Full Skill Icons stack</b></summary>
 
-![](https://skillicons.dev/icons?i=python,tensorflow,fastapi,opencv,cs,dotnet,postgres,redis,azure,react,ts,tailwind,vite,github,githubactions&theme=dark)
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,fastapi,cs,dotnet,postgres,redis,azure,react,ts,tailwind,vite,git,github,githubactions,railway&theme=dark" alt="Full technology stack"/>
 
 </details>
 
