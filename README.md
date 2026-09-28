@@ -105,16 +105,6 @@
 
 <img src="assets/divider.svg" width="100%"/>
 
-## 🔗 Featured Work
-
-- [Personal Portfolio](https://imranabdul-cmd.github.io/portfolio/)
-- [AI Agri Quality Inspection](https://github.com/imranabdul-cmd/AGRI-GRADE-AUTOMATED-QUALITY-GRADING-AND-PROFIT-ESTIMATION-SYSTEM-)
-- [Lung Detector AI](https://github.com/imranabdul-cmd/lung-detector-ai)
-
-> **Selected product work:** ClanSure and GT Companion are presented as live product/case-study experiences. Public source code is not included where company ownership or IP restrictions apply.
-
-<img src="assets/divider.svg" width="100%"/>
-
 <div align="center"><img src="assets/headings/connect-flipfade.svg" alt="📡 Connect" width="92%"/></div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-imran--aupe-00f0ff?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0a0f2e)](https://www.linkedin.com/in/imran-aupe)
@@ -123,7 +113,7 @@
 
 <div align="center">
 
-### 🌐 [Enter the Portfolio](https://imranabdul-cmd.github.io/portfolio/)
+### 🌐 [Imran A | Software & AI Engineer — Futuristic Portfolio](https://imran-aupe.vercel.app/)
 
 <img src="assets/footer.svg" width="100%"/>
 
