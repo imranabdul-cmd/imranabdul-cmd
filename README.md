@@ -56,70 +56,41 @@
 
 <div align="center"><img src="assets/headings/languages-gooey.svg" alt="💻 Languages I Work With" width="92%"/></div>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cs,js,ts,html,css&theme=light" alt="Python, C#, JavaScript, TypeScript, HTML, CSS" />
-
-<br/>
-
-<b>SQL</b> · <b>Python</b> · <b>C#</b> · <b>JavaScript</b> · <b>TypeScript</b> · <b>HTML</b> · <b>CSS</b>
-
-</div>
-
-<div align="center"><img src="assets/headings/frontend-gooey.svg" alt="⚛️ Frontend" width="92%"/></div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,js,ts,html,css,postgres&theme=light" alt="Programming languages and SQL" />
+</p>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=light" alt="React, Vite, Tailwind CSS"/>
-
-<br/>
-
-<b>React</b> · <b>TypeScript</b> · <b>Vite</b> · <b>Tailwind CSS</b> · <b>Shadcn/UI</b> · <b>Lucide React</b>
-
+  <b>Frontend</b>
 </div>
 
-<div align="center"><img src="assets/headings/backend-ai-gooey.svg" alt="⚙️ Backend & AI" width="92%"/></div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,shadcn,lucide&theme=light" alt="Frontend stack" />
+</p>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,fastapi,tensorflow,opencv&theme=light" alt="C#, .NET, Python, FastAPI, TensorFlow, OpenCV"/>
-
-<br/>
-
-<b>ASP.NET Core</b> · <b>C#</b> · <b>Entity Framework Core</b> · <b>Python</b> · <b>FastAPI</b> · <b>TensorFlow</b> · <b>OpenCV</b> · <b>LangChain</b> · <b>Gemini API</b>
-
+  <b>Backend & AI</b>
 </div>
 
-<div align="center"><img src="assets/headings/data-gooey.svg" alt="🗄️ Data, Cache & Vector Search" width="92%"/></div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,fastapi,tensorflow,opencv&theme=light" alt="Backend and AI stack" />
+</p>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,redis&theme=light" alt="PostgreSQL, Redis"/>
-
-<br/>
-
-<b>PostgreSQL</b> · <b>pgvector</b> · <b>Redis</b> · <b>RAG document embeddings / vectors</b>
-
+  <b>Data & Infrastructure</b>
 </div>
 
-<div align="center"><img src="assets/headings/devops-gooey.svg" alt="🔧 Git, GitHub & Deployment" width="92%"/></div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,redis,azure&theme=light" alt="Data and infrastructure stack" />
+</p>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,railway,azure&theme=light" alt="Git, GitHub, GitHub Actions, Railway, Azure"/>
-
-<br/>
-
-<b>Git</b> · <b>GitHub</b> · <b>GitHub Actions</b> · <b>Railway</b> · <b>Azure</b> · <b>CI/CD & Deployment</b>
-
+  <b>Git & Deployment</b>
 </div>
 
-<details>
-<summary><b>Full Skill Icons stack</b></summary>
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,fastapi,cs,dotnet,postgres,redis,azure,react,ts,tailwind,vite,git,github,githubactions,railway&theme=dark" alt="Full technology stack"/>
-
-</details>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,railway&theme=light" alt="Git, GitHub and deployment stack" />
+</p>
 
 <img src="assets/divider.svg" width="100%"/>
 
