@@ -8,24 +8,18 @@
 
 <table>
 <tr>
-<td width="38%" align="center"><img src="assets/robot.svg" alt="AI robot" width="320"/></td>
-<td width="62%">
-
-### 👋 About Me
-
-I'm an **AI Engineer @ OwlSure** focused on **Generative AI, RAG systems, and full-stack product engineering**.
-
-I build practical AI applications across **Python, TensorFlow, .NET, React, PostgreSQL, Databricks, and Microsoft Fabric**, with an emphasis on turning ideas into usable products.
-
-Selected work includes **ClanSure**, **GT Companion**, **AI Agri Quality Inspection**, and **Lung Detector AI**.
-
+<td width="38%" align="center" valign="middle">
+<img src="assets/robot.svg" alt="AI robot" width="320"/>
 </td>
-</tr>
-</table>
+<td width="62%" valign="middle">
 
 <div align="center">
 <img src="assets/terminal.svg" alt="Imran profile terminal" width="100%"/>
 </div>
+
+</td>
+</tr>
+</table>
 
 <div align="center"><img src="assets/matrix.svg" alt="matrix code rain" width="90%"/></div>
 
