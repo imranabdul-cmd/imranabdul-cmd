@@ -1,42 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1100" height="92" viewBox="0 0 1100 92" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="🕹️ Arcade">
 <defs>
-  <linearGradient id="g" x1="0" x2="1">
-    <stop offset="0" stop-color="#00f0ff"/>
-    <stop offset=".52" stop-color="#7c7cff"/>
-    <stop offset="1" stop-color="#ff2bd6"/>
+  <linearGradient id="text" x1="0" x2="1">
+    <stop offset="0" stop-color="#12243a"/>
+    <stop offset=".5" stop-color="#1f5e7a"/>
+    <stop offset="1" stop-color="#0e7f9c"/>
   </linearGradient>
-  <filter id="glow" x="-25%" y="-80%" width="150%" height="260%">
-    <feGaussianBlur stdDeviation="4" result="b"/>
-    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  <linearGradient id="line" x1="0" x2="1">
+    <stop offset="0" stop-color="#9aa9bd" stop-opacity=".15"/>
+    <stop offset=".5" stop-color="#00a9c7" stop-opacity=".9"/>
+    <stop offset="1" stop-color="#9aa9bd" stop-opacity=".15"/>
+  </linearGradient>
+  <filter id="softGlow" x="-15%" y="-50%" width="130%" height="200%">
+    <feGaussianBlur stdDeviation="1.8" result="b"/>
+    <feMerge>
+      <feMergeNode in="b"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
   </filter>
-  <linearGradient id="shine" x1="0" x2="1">
-    <stop offset="0" stop-color="#00f0ff" stop-opacity="0"/>
-    <stop offset=".5" stop-color="#ffffff" stop-opacity=".95"/>
-    <stop offset="1" stop-color="#00f0ff" stop-opacity="0"/>
-  </linearGradient>
 </defs>
 
-<text x="550" y="53" text-anchor="middle"
-      font-family="Verdana,Arial,sans-serif"
-      font-weight="900"
-      font-size="34"
-      letter-spacing="1.6"
-      fill="url(#g)"
-      filter="url(#glow)">
+<text x="550" y="53"
+      text-anchor="middle"
+      font-family="Inter,Segoe UI,Verdana,Arial,sans-serif"
+      font-weight="800"
+      font-size="32"
+      letter-spacing="0.8"
+      fill="url(#text)"
+      filter="url(#softGlow)">
   🕹️ Arcade
-  <animate attributeName="opacity" values="0.82;1;0.82" dur="2.4s" repeatCount="indefinite"/>
+  <animate attributeName="opacity"
+           values="0.9;1;0.9"
+           dur="3.6s"
+           repeatCount="indefinite"/>
 </text>
 
-<rect x="250" y="69" width="600" height="2.5" rx="1.25" fill="url(#g)" opacity=".55"/>
-<rect x="0" y="68" width="170" height="3" rx="1.5" fill="url(#shine)">
-  <animate attributeName="x" values="-180;1110;-180" dur="3.8s" repeatCount="indefinite"/>
+<rect x="235" y="70" width="630" height="2" rx="1" fill="url(#line)"/>
+
+<rect x="0" y="69" width="150" height="2.5" rx="1.25" fill="#00a9c7" opacity=".55">
+  <animate attributeName="x" values="-170;1120;-170" dur="5.2s" repeatCount="indefinite"/>
 </rect>
 
-<circle cx="210" cy="70" r="3.5" fill="#00f0ff" filter="url(#glow)">
-  <animate attributeName="r" values="2.5;5;2.5" dur="1.8s" repeatCount="indefinite"/>
+<circle cx="205" cy="71" r="2.8" fill="#00a9c7" opacity=".75">
+  <animate attributeName="r" values="2.4;4;2.4" dur="2.2s" repeatCount="indefinite"/>
 </circle>
-<circle cx="890" cy="70" r="3.5" fill="#ff2bd6" filter="url(#glow)">
-  <animate attributeName="r" values="2.5;5;2.5" dur="2.1s" repeatCount="indefinite"/>
+
+<circle cx="895" cy="71" r="2.8" fill="#5f7f9c" opacity=".75">
+  <animate attributeName="r" values="2.4;4;2.4" dur="2.5s" repeatCount="indefinite"/>
 </circle>
 </svg>
