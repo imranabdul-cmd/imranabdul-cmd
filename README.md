@@ -11,15 +11,23 @@
 <td width="38%" align="center"><img src="assets/robot.svg" alt="AI robot" width="320"/></td>
 <td width="62%">
 
-<div align="center">
-<img src="assets/terminal.svg" alt="Imran profile terminal" width="100%"/>
-</div>
+### 👋 About Me
+
+I'm an **AI Engineer @ OwlSure** focused on **Generative AI, RAG systems, and full-stack product engineering**.
+
+I build practical AI applications across **Python, TensorFlow, .NET, React, PostgreSQL, Databricks, and Microsoft Fabric**, with an emphasis on turning ideas into usable products.
+
+Selected work includes **ClanSure**, **GT Companion**, **AI Agri Quality Inspection**, and **Lung Detector AI**.
 
 </td>
 </tr>
 </table>
 
-<div align="center"><img src="assets/matrix.svg" alt="matrix" width="90%"/></div>
+<div align="center">
+<img src="assets/terminal.svg" alt="Imran profile terminal" width="100%"/>
+</div>
+
+<div align="center"><img src="assets/matrix.svg" alt="matrix code rain" width="90%"/></div>
 
 <img src="assets/divider.svg" width="100%"/>
 
@@ -72,9 +80,13 @@
 
 <img src="assets/divider.svg" width="100%"/>
 
-## 📊 Activity
+## 🔗 Featured Work
 
-<img src="https://github-readme-stats.vercel.app/api?username=imranabdul-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=05070f" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=imranabdul-cmd&theme=tokyonight&hide_border=true&background=05070f" height="165"/>
+- [Personal Portfolio](https://imranabdul-cmd.github.io/portfolio/)
+- [AI Agri Quality Inspection](https://github.com/imranabdul-cmd/AGRI-GRADE-AUTOMATED-QUALITY-GRADING-AND-PROFIT-ESTIMATION-SYSTEM-)
+- [Lung Detector AI](https://github.com/imranabdul-cmd/lung-detector-ai)
+
+> **Selected product work:** ClanSure and GT Companion are presented as live product/case-study experiences. Public source code is not included where company ownership or IP restrictions apply.
 
 <img src="assets/divider.svg" width="100%"/>
 
@@ -86,7 +98,7 @@
 
 <div align="center">
 
-### 🌐 [Enter the 3D Experience](https://imranabdul-cmd.github.io)
+### 🌐 [Enter the Portfolio](https://imranabdul-cmd.github.io/portfolio/)
 
 <img src="assets/footer.svg" width="100%"/>
 
