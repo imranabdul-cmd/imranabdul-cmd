@@ -84,7 +84,7 @@
 
 <img src="assets/divider.svg" width="100%"/>
 
-## 📡 Connect
+<div align="center"><img src="assets/headings/connect.svg" alt="Connect" width="92%"/></div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-imran--aupe-00f0ff?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0a0f2e)](https://www.linkedin.com/in/imran-aupe)
 [![Email](https://img.shields.io/badge/Email-imran.abdul.official-b44dff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f2e)](mailto:imran.abdul.official@gmail.com)
