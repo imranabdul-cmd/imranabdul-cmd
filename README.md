@@ -54,19 +54,63 @@
 </tr>
 </table>
 
-### 💻 Languages I Work With
+<div align="center"><img src="assets/headings/languages-gooey.svg" alt="💻 Languages I Work With" width="92%"/></div>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cs,js,ts,html,css&theme=light" alt="Python, C#, JavaScript, TypeScript, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=python,cs,js,ts,html,css&theme=light" alt="Python, C#, JavaScript, TypeScript, HTML, CSS"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logoColor=white" alt="SQL"/>
+
+</div>
+
+### ⚛️ Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=light" alt="React, Vite, Tailwind CSS"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Shadcn%2FUI-111827?style=for-the-badge" alt="Shadcn UI"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Lucide%20React-111827?style=for-the-badge" alt="Lucide React"/>
+
+</div>
+
+### ⚙️ Backend & AI
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,fastapi&theme=light" alt="C#, ASP.NET Core, Python, FastAPI"/>
 
 <br/>
 
-<sub><b>Python</b> · <b>C#</b> · <b>JavaScript</b> · <b>TypeScript</b> · <b>HTML</b> · <b>CSS</b> · <b>SQL</b></sub>
+<img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/>
+
+</div>
+
+### 🗄️ Data, Cache & Vector Search
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,redis&theme=light" alt="PostgreSQL, Redis"/>
+&nbsp;
+<img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector"/>
+
+</div>
+
+### 🔧 Git, GitHub & Deployment
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions&theme=light" alt="Git, GitHub, GitHub Actions"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Railway-111827?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
 
 </div>
 
