@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1100" height="92" viewBox="0 0 1100 92" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="🕹️ Arcade">
 <defs>
-  <linearGradient id="text" x1="0" x2="1">
-    <stop offset="0" stop-color="#12243a"/>
-    <stop offset=".5" stop-color="#1f5e7a"/>
-    <stop offset="1" stop-color="#0e7f9c"/>
-  </linearGradient>
+  <linearGradient id="text" x1="0" x2="1"><stop offset="0" stop-color="#ffffff"/><stop offset=".5" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
   <linearGradient id="line" x1="0" x2="1">
     <stop offset="0" stop-color="#9aa9bd" stop-opacity=".15"/>
     <stop offset=".5" stop-color="#00a9c7" stop-opacity=".9"/>
@@ -26,7 +22,7 @@
       font-weight="800"
       font-size="32"
       letter-spacing="0.8"
-      fill="url(#text)"
+      fill="#ffffff"
       filter="url(#softGlow)">
   🕹️ Arcade
   <animate attributeName="opacity"
