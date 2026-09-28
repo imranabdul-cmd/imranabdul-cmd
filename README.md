@@ -11,24 +11,13 @@
 <td width="38%" align="center"><img src="assets/robot.svg" alt="AI robot" width="320"/></td>
 <td width="62%">
 
-### 🧠 About
-```js
-const imran = {
-  role: "Software Engineer | AI Engineer",
-  company: "OwlSure - a ValueMomentum business unit",
-  studying: "MCA - Generative AI @ SRM, Chennai",
-  location: "Chennai, India 🇮🇳",
-  building: ["RAG systems", "AI-powered products", "Full-stack platforms"],
-  learning: ["Databricks", "Microsoft Fabric", "Data Engineering"],
-  mission: "Ship AI that solves real problems, not just models."
-};
-```
+<div align="center">
+<img src="assets/terminal.svg" alt="Imran profile terminal" width="100%"/>
+</div>
 
 </td>
 </tr>
 </table>
-
-<div align="center"><img src="assets/terminal.svg" alt="terminal" width="90%"/></div>
 
 <img src="assets/divider.svg" width="100%"/>
 
