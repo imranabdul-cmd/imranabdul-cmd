@@ -25,27 +25,27 @@
 
 <img src="assets/divider.svg" width="100%"/>
 
-<div align="center"><img src="assets/headings/projects-gooey.svg" alt="🚀 Projects" width="92%"/></div>
+<div align="center"><img src="assets/headings/projects-flipfade.svg" alt="🚀 Projects" width="92%"/></div>
 
 <a href="https://family-portal.up.railway.app/"><img src="assets/card-clansure.svg" width="100%" alt="ClanSure"/></a>
 <a href="https://gt-companion.up.railway.app/#landing"><img src="assets/card-gt.svg" width="100%" alt="GT Companion"/></a>
 <a href="https://github.com/imranabdul-cmd/AGRI-GRADE-AUTOMATED-QUALITY-GRADING-AND-PROFIT-ESTIMATION-SYSTEM-"><img src="assets/card-agri.svg" width="100%" alt="AI Agri Quality Inspection"/></a>
 
-<div align="center"><img src="assets/headings/architecture-gooey.svg" alt="🏗️ How ClanSure and GT Companion are built" width="92%"/></div>
+<div align="center"><img src="assets/headings/architecture-flipfade.svg" alt="🏗️ How ClanSure and GT Companion are built" width="92%"/></div>
 <div align="center"><img src="assets/architecture.svg" alt="architecture" width="100%"/></div>
 
-<div align="center"><img src="assets/headings/ai-thinking-gooey.svg" alt="🧬 How my AI products think" width="92%"/></div>
+<div align="center"><img src="assets/headings/ai-thinking-flipfade.svg" alt="🧬 How my AI products think" width="92%"/></div>
 <div align="center"><img src="assets/neural.svg" alt="RAG flow" width="85%"/></div>
 
 <img src="assets/divider.svg" width="100%"/>
 
-<div align="center"><img src="assets/headings/achievement-gooey.svg" alt="🏆 Achievement" width="92%"/></div>
+<div align="center"><img src="assets/headings/achievement-flipfade.svg" alt="🏆 Achievement" width="92%"/></div>
 
 <img src="assets/trophy.svg" width="100%" alt="Mission Possible 1st Prize"/>
 
 <img src="assets/divider.svg" width="100%"/>
 
-<div align="center"><img src="assets/headings/stack-focus-gooey.svg" alt="🛰️ Stack and Focus" width="92%"/></div>
+<div align="center"><img src="assets/headings/stack-focus-flipfade.svg" alt="🛰️ Stack and Focus" width="92%"/></div>
 
 <table>
 <tr>
@@ -54,7 +54,7 @@
 </tr>
 </table>
 
-<div align="center"><img src="assets/headings/languages-gooey.svg" alt="💻 Languages I Work With" width="92%"/></div>
+<div align="center"><img src="assets/headings/languages-flipfade.svg" alt="💻 Languages I Work With" width="92%"/></div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,js,ts,html,css,postgres&theme=light" alt="Programming languages and SQL" />
@@ -94,7 +94,7 @@
 
 <img src="assets/divider.svg" width="100%"/>
 
-<div align="center"><img src="assets/headings/arcade-gooey.svg" alt="🕹️ Arcade" width="92%"/></div>
+<div align="center"><img src="assets/headings/arcade-flipfade.svg" alt="🕹️ Arcade" width="92%"/></div>
 
 <div align="center">
 <img src="assets/space-defender.svg" alt="space defender" width="90%"/>
@@ -115,7 +115,7 @@
 
 <img src="assets/divider.svg" width="100%"/>
 
-<div align="center"><img src="assets/headings/connect-gooey.svg" alt="📡 Connect" width="92%"/></div>
+<div align="center"><img src="assets/headings/connect-flipfade.svg" alt="📡 Connect" width="92%"/></div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-imran--aupe-00f0ff?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0a0f2e)](https://www.linkedin.com/in/imran-aupe)
 [![Email](https://img.shields.io/badge/Email-imran.abdul.official-b44dff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f2e)](mailto:imran.abdul.official@gmail.com)
