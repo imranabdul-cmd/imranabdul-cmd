@@ -19,12 +19,7 @@
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%"/>
-
-## 🧬 How my AI products think
-Every product I build follows one RAG pipeline: understand the query, retrieve context from pgvector, reason with an LLM, answer with grounded facts.
-
-<div align="center"><img src="assets/neural.svg" alt="RAG flow" width="85%"/></div>
+<div align="center"><img src="assets/matrix.svg" alt="matrix" width="90%"/></div>
 
 <img src="assets/divider.svg" width="100%"/>
 
@@ -34,6 +29,12 @@ Every product I build follows one RAG pipeline: understand the query, retrieve c
 <a href="https://gt-companion.up.railway.app/#landing"><img src="assets/card-gt.svg" width="100%" alt="GT Companion"/></a>
 <a href="https://github.com/imranabdul-cmd/AGRI-GRADE-AUTOMATED-QUALITY-GRADING-AND-PROFIT-ESTIMATION-SYSTEM-"><img src="assets/card-agri.svg" width="100%" alt="AI Agri Quality Inspection"/></a>
 
+### 🏗️ How ClanSure and GT Companion are built
+<div align="center"><img src="assets/architecture.svg" alt="architecture" width="100%"/></div>
+
+### 🧬 How my AI products think
+<div align="center"><img src="assets/neural.svg" alt="RAG flow" width="85%"/></div>
+
 <img src="assets/divider.svg" width="100%"/>
 
 ## 🏆 Achievement
@@ -42,9 +43,14 @@ Every product I build follows one RAG pipeline: understand the query, retrieve c
 
 <img src="assets/divider.svg" width="100%"/>
 
-## 🛰️ Tech Stack
+## 🛰️ Stack and Focus
 
-<div align="center"><img src="assets/orbit.svg" alt="Tech stack" width="70%"/></div>
+<table>
+<tr>
+<td width="55%"><img src="assets/orbit.svg" alt="Tech stack" width="100%"/></td>
+<td width="45%"><img src="assets/radar.svg" alt="Focus radar" width="100%"/></td>
+</tr>
+</table>
 
 <details>
 <summary><b>Full icon stack</b></summary>
@@ -55,11 +61,20 @@ Every product I build follows one RAG pipeline: understand the query, retrieve c
 
 <img src="assets/divider.svg" width="100%"/>
 
+## 🕹️ Arcade
+
+<div align="center">
+<img src="assets/space-defender.svg" alt="space defender" width="90%"/>
+<img src="assets/pacman.svg" alt="pacman" width="90%"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/imranabdul-cmd/imranabdul-cmd/output/github-snake-dark.svg" width="100%" alt="contribution snake"/>
+
+<img src="assets/divider.svg" width="100%"/>
+
 ## 📊 Activity
 
 <img src="https://github-readme-stats.vercel.app/api?username=imranabdul-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=05070f" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=imranabdul-cmd&theme=tokyonight&hide_border=true&background=05070f" height="165"/>
-
-<img src="https://raw.githubusercontent.com/imranabdul-cmd/imranabdul-cmd/output/github-snake-dark.svg" width="100%" alt="contribution snake"/>
 
 <img src="assets/divider.svg" width="100%"/>
 
