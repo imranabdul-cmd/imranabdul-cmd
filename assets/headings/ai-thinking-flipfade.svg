@@ -1,203 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1100" height="100" viewBox="0 0 1100 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="How my AI products think">
-<defs>
-  <filter id="blur0" x="-60%" y="-80%" width="220%" height="260%"><feGaussianBlur stdDeviation="7"><animate attributeName="stdDeviation" values="7;0;0;7" keyTimes="0;.22;.76;1" dur="3.8s" repeatCount="indefinite"/></feGaussianBlur></filter>
-  <filter id="blur1" x="-60%" y="-80%" width="220%" height="260%"><feGaussianBlur stdDeviation="7"><animate attributeName="stdDeviation" values="7;0;0;7" keyTimes="0;.22;.76;1" dur="3.8s" begin=".055s" repeatCount="indefinite"/></feGaussianBlur></filter>
-  <filter id="blur2" x="-60%" y="-80%" width="220%" height="260%"><feGaussianBlur stdDeviation="7"><animate attributeName="stdDeviation" values="7;0;0;7" keyTimes="0;.22;.76;1" dur="3.8s" begin=".11s" repeatCount="indefinite"/></feGaussianBlur></filter>
-  <filter id="blur3" x="-60%" y="-80%" width="220%" height="260%"><feGaussianBlur stdDeviation="7"><animate attributeName="stdDeviation" values="7;0;0;7" keyTimes="0;.22;.76;1" dur="3.8s" begin=".165s" repeatCount="indefinite"/></feGaussianBlur></filter>
-  <linearGradient id="line" x1="0" x2="1"><stop stop-color="#111111" stop-opacity=".04"/><stop offset=".5" stop-color="#111111" stop-opacity=".22"/><stop offset="1" stop-color="#111111" stop-opacity=".04"/></linearGradient>
-</defs>
-<g transform="translate(354.1 62)">
-  <g opacity="0">
-    <text x="0" y="0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="800" fill="#111111" filter="url(#blur0)">H</text>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.00s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" additive="sum" values="0 18;0 0;0 0;0 -14" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.00s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="1 .18;1 1;1 1;1 .18" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.00s" repeatCount="indefinite"/>
+  <defs>
+    <filter id="softBlur" x="-40%" y="-80%" width="180%" height="260%">
+      <feGaussianBlur stdDeviation="5">
+        <animate attributeName="stdDeviation" values="6;0;6" keyTimes="0;0.28;0.78;1" dur="3.6s" repeatCount="indefinite"/>
+      </feGaussianBlur>
+    </filter>
+  </defs>
+
+  <!-- Always-readable base text -->
+  <text
+    x="550"
+    y="60"
+    text-anchor="middle"
+    font-family="Inter,Arial,sans-serif"
+    font-size="27"
+    font-weight="800"
+    letter-spacing="0"
+    fill="#111111"
+  >How my AI products think</text>
+
+  <!-- FlipFade-style animated pass -->
+  <g filter="url(#softBlur)" opacity="0">
+    <text
+      x="550"
+      y="60"
+      text-anchor="middle"
+      font-family="Inter,Arial,sans-serif"
+      font-size="27"
+      font-weight="800"
+      letter-spacing="0"
+      fill="#111111"
+    >How my AI products think
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.28;0.78;1" dur="3.6s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 16;0 0;0 0;0 -10" keyTimes="0;0.28;0.78;1" dur="3.6s" repeatCount="indefinite"/>
+    </text>
   </g>
-</g>
-<g transform="translate(372.4 62)">
-  <g opacity="0">
-    <text x="0" y="0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="800" fill="#111111" filter="url(#blur1)">o</text>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.06s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" additive="sum" values="0 18;0 0;0 0;0 -14" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.06s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="1 .18;1 1;1 1;1 .18" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.06s" repeatCount="indefinite"/>
-  </g>
-</g>
-<g transform="translate(390.7 62)">
-  <g opacity="0">
-    <text x="0" y="0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="800" fill="#111111" filter="url(#blur2)">w</text>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.11s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" additive="sum" values="0 18;0 0;0 0;0 -14" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.11s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="1 .18;1 1;1 1;1 .18" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.11s" repeatCount="indefinite"/>
-  </g>
-</g>
-<g transform="translate(405.4 62)">
-  <g opacity="0">
-    <text x="0" y="0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="800" fill="#111111" filter="url(#blur3)"> </text>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.17s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" additive="sum" values="0 18;0 0;0 0;0 -14" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.17s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="1 .18;1 1;1 1;1 .18" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.17s" repeatCount="indefinite"/>
-  </g>
-</g>
-<g transform="translate(420.0 62)">
-  <g opacity="0">
-    <text x="0" y="0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="800" fill="#111111" filter="url(#blur0)">m</text>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.22s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" additive="sum" values="0 18;0 0;0 0;0 -14" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.22s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="1 .18;1 1;1 1;1 .18" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.22s" repeatCount="indefinite"/>
-  </g>
-</g>
-<g transform="translate(438.3 62)">
-  <g opacity="0">
-    <text x="0" y="0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="800" fill="#111111" filter="url(#blur1)">y</text>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.28s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" additive="sum" values="0 18;0 0;0 0;0 -14" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.28s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="1 .18;1 1;1 1;1 .18" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.28s" repeatCount="indefinite"/>
-  </g>
-</g>
-<g transform="translate(453.0 62)">
-  <g opacity="0">
-    <text x="0" y="0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="800" fill="#111111" filter="url(#blur2)"> </text>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.33s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" additive="sum" values="0 18;0 0;0 0;0 -14" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.33s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="1 .18;1 1;1 1;1 .18" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.33s" repeatCount="indefinite"/>
-  </g>
-</g>
-<g transform="translate(467.6 62)">
-  <g opacity="0">
-    <text x="0" y="0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="800" fill="#111111" filter="url(#blur3)">A</text>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.39s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" additive="sum" values="0 18;0 0;0 0;0 -14" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.39s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="1 .18;1 1;1 1;1 .18" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.39s" repeatCount="indefinite"/>
-  </g>
-</g>
-<g transform="translate(485.9 62)">
-  <g opacity="0">
-    <text x="0" y="0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="800" fill="#111111" filter="url(#blur0)">I</text>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.44s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" additive="sum" values="0 18;0 0;0 0;0 -14" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.44s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="1 .18;1 1;1 1;1 .18" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.44s" repeatCount="indefinite"/>
-  </g>
-</g>
-<g transform="translate(500.6 62)">
-  <g opacity="0">
-    <text x="0" y="0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="800" fill="#111111" filter="url(#blur1)"> </text>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.49s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" additive="sum" values="0 18;0 0;0 0;0 -14" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.49s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="1 .18;1 1;1 1;1 .18" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.49s" repeatCount="indefinite"/>
-  </g>
-</g>
-<g transform="translate(515.3 62)">
-  <g opacity="0">
-    <text x="0" y="0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="800" fill="#111111" filter="url(#blur2)">p</text>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.55s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" additive="sum" values="0 18;0 0;0 0;0 -14" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.55s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="1 .18;1 1;1 1;1 .18" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.55s" repeatCount="indefinite"/>
-  </g>
-</g>
-<g transform="translate(533.6 62)">
-  <g opacity="0">
-    <text x="0" y="0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="800" fill="#111111" filter="url(#blur3)">r</text>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.60s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" additive="sum" values="0 18;0 0;0 0;0 -14" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.60s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="1 .18;1 1;1 1;1 .18" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.60s" repeatCount="indefinite"/>
-  </g>
-</g>
-<g transform="translate(551.9 62)">
-  <g opacity="0">
-    <text x="0" y="0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="800" fill="#111111" filter="url(#blur0)">o</text>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.66s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" additive="sum" values="0 18;0 0;0 0;0 -14" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.66s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="1 .18;1 1;1 1;1 .18" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.66s" repeatCount="indefinite"/>
-  </g>
-</g>
-<g transform="translate(570.2 62)">
-  <g opacity="0">
-    <text x="0" y="0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="800" fill="#111111" filter="url(#blur1)">d</text>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.71s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" additive="sum" values="0 18;0 0;0 0;0 -14" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.71s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="1 .18;1 1;1 1;1 .18" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.71s" repeatCount="indefinite"/>
-  </g>
-</g>
-<g transform="translate(588.5 62)">
-  <g opacity="0">
-    <text x="0" y="0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="800" fill="#111111" filter="url(#blur2)">u</text>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.77s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" additive="sum" values="0 18;0 0;0 0;0 -14" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.77s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="1 .18;1 1;1 1;1 .18" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.77s" repeatCount="indefinite"/>
-  </g>
-</g>
-<g transform="translate(606.8 62)">
-  <g opacity="0">
-    <text x="0" y="0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="800" fill="#111111" filter="url(#blur3)">c</text>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.82s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" additive="sum" values="0 18;0 0;0 0;0 -14" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.82s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="1 .18;1 1;1 1;1 .18" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.82s" repeatCount="indefinite"/>
-  </g>
-</g>
-<g transform="translate(625.1 62)">
-  <g opacity="0">
-    <text x="0" y="0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="800" fill="#111111" filter="url(#blur0)">t</text>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.88s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" additive="sum" values="0 18;0 0;0 0;0 -14" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.88s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="1 .18;1 1;1 1;1 .18" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.88s" repeatCount="indefinite"/>
-  </g>
-</g>
-<g transform="translate(643.4 62)">
-  <g opacity="0">
-    <text x="0" y="0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="800" fill="#111111" filter="url(#blur1)">s</text>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.94s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" additive="sum" values="0 18;0 0;0 0;0 -14" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.94s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="1 .18;1 1;1 1;1 .18" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.94s" repeatCount="indefinite"/>
-  </g>
-</g>
-<g transform="translate(658.0 62)">
-  <g opacity="0">
-    <text x="0" y="0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="800" fill="#111111" filter="url(#blur2)"> </text>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.99s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" additive="sum" values="0 18;0 0;0 0;0 -14" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.99s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="1 .18;1 1;1 1;1 .18" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="0.99s" repeatCount="indefinite"/>
-  </g>
-</g>
-<g transform="translate(672.7 62)">
-  <g opacity="0">
-    <text x="0" y="0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="800" fill="#111111" filter="url(#blur3)">t</text>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="1.04s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" additive="sum" values="0 18;0 0;0 0;0 -14" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="1.04s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="1 .18;1 1;1 1;1 .18" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="1.04s" repeatCount="indefinite"/>
-  </g>
-</g>
-<g transform="translate(691.0 62)">
-  <g opacity="0">
-    <text x="0" y="0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="800" fill="#111111" filter="url(#blur0)">h</text>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="1.10s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" additive="sum" values="0 18;0 0;0 0;0 -14" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="1.10s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="1 .18;1 1;1 1;1 .18" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="1.10s" repeatCount="indefinite"/>
-  </g>
-</g>
-<g transform="translate(709.3 62)">
-  <g opacity="0">
-    <text x="0" y="0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="800" fill="#111111" filter="url(#blur1)">i</text>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="1.16s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" additive="sum" values="0 18;0 0;0 0;0 -14" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="1.16s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="1 .18;1 1;1 1;1 .18" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="1.16s" repeatCount="indefinite"/>
-  </g>
-</g>
-<g transform="translate(727.6 62)">
-  <g opacity="0">
-    <text x="0" y="0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="800" fill="#111111" filter="url(#blur2)">n</text>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="1.21s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" additive="sum" values="0 18;0 0;0 0;0 -14" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="1.21s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="1 .18;1 1;1 1;1 .18" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="1.21s" repeatCount="indefinite"/>
-  </g>
-</g>
-<g transform="translate(745.9 62)">
-  <g opacity="0">
-    <text x="0" y="0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="800" fill="#111111" filter="url(#blur3)">k</text>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="1.26s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" additive="sum" values="0 18;0 0;0 0;0 -14" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="1.26s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" additive="sum" values="1 .18;1 1;1 1;1 .18" keyTimes="0;0.22;0.76;1" dur="3.8s" begin="1.26s" repeatCount="indefinite"/>
-  </g>
-</g>
-<rect x="250" y="79" width="600" height="2" rx="1" fill="url(#line)"/>
+
+  <rect x="250" y="79" width="600" height="2" rx="1" fill="#111111" opacity=".12"/>
 </svg>
